@@ -1,0 +1,38 @@
+
+Node: dcid:dc/g/Xa_hoi
+typeOf: dcs:StatVarGroup
+name: "Xa Hoi"
+specializationOf: dcid:dc/g/Y_te
+displayRank: {3}
+
+Node: dcid:totalLevel2
+name: "Tổng số huyện, thành phố"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:totalUrbanLevel2
+name: "Tổng số thành phố trực thuộc"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:totalLevel3
+name: "Tổng số phường, xã"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:totalUrbanLevel3
+name: "Tổng số phường trực thuộc thành phố"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi

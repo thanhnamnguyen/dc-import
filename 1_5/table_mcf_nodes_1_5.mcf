@@ -1,0 +1,2520 @@
+Node: 1_5/E2/3739cad0-e976-0053-ba6a-34696c495500
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:totalUrbanLevel2
+value: 13
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=totalUrbanLevel2observationDate=2019value=13observationPeriod=P1Y"
+dcid: "dc/o/h8jxrxh163nsc"
+
+Node: 1_5/E3/3739cad0-e976-0053-ba6a-34696c495500
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:totalUrbanLevel3
+value: 198
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=totalUrbanLevel3observationDate=2019value=198observationPeriod=P1Y"
+dcid: "dc/o/s8lrgq04gzk62"
+
+Node: 1_5/E0/3739cad0-e976-0053-ba6a-34696c495500
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:totalLevel2
+value: 30
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=totalLevel2observationDate=2019value=30observationPeriod=P1Y"
+dcid: "dc/o/c1h5jlsgeypef"
+
+Node: 1_5/E1/3739cad0-e976-0053-ba6a-34696c495500
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:totalLevel3
+value: 584
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=totalLevel3observationDate=2019value=584observationPeriod=P1Y"
+dcid: "dc/o/b8ds683l3gxw3"
+
+Node: 1_5/E2/cae53151-96e3-5f45-d430-3496598ed576
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/11fn6r3h8465g"
+
+Node: 1_5/E3/cae53151-96e3-5f45-d430-3496598ed576
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:totalUrbanLevel3
+value: 27
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=totalUrbanLevel3observationDate=2019value=27observationPeriod=P1Y"
+dcid: "dc/o/4rmsbghh3xe1d"
+
+Node: 1_5/E0/cae53151-96e3-5f45-d430-3496598ed576
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/sc98kcr8mq64g"
+
+Node: 1_5/E1/cae53151-96e3-5f45-d430-3496598ed576
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:totalLevel3
+value: 137
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=totalLevel3observationDate=2019value=137observationPeriod=P1Y"
+dcid: "dc/o/vy4l8xpvzb3sc"
+
+Node: 1_5/E2/1221c049-e33a-7e85-d156-0dde2d45a90b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/my3lz7vhvl6x3"
+
+Node: 1_5/E3/1221c049-e33a-7e85-d156-0dde2d45a90b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:totalUrbanLevel3
+value: 32
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=totalUrbanLevel3observationDate=2019value=32observationPeriod=P1Y"
+dcid: "dc/o/v6c4pcn00994d"
+
+Node: 1_5/E0/1221c049-e33a-7e85-d156-0dde2d45a90b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/2tvjzxljv9t83"
+
+Node: 1_5/E1/1221c049-e33a-7e85-d156-0dde2d45a90b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:totalLevel3
+value: 126
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=totalLevel3observationDate=2019value=126observationPeriod=P1Y"
+dcid: "dc/o/rs6tz8fjq29gb"
+
+Node: 1_5/E2/5206bdb0-8886-faf8-019a-fd6a44d34dc4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:totalUrbanLevel2
+value: 6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=totalUrbanLevel2observationDate=2019value=6observationPeriod=P1Y"
+dcid: "dc/o/zc2g5jwce3dtg"
+
+Node: 1_5/E3/5206bdb0-8886-faf8-019a-fd6a44d34dc4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:totalUrbanLevel3
+value: 79
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=totalUrbanLevel3observationDate=2019value=79observationPeriod=P1Y"
+dcid: "dc/o/hvw50gztmhz9h"
+
+Node: 1_5/E0/5206bdb0-8886-faf8-019a-fd6a44d34dc4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:totalLevel2
+value: 14
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=totalLevel2observationDate=2019value=14observationPeriod=P1Y"
+dcid: "dc/o/z0xmmlpqpyt2f"
+
+Node: 1_5/E1/5206bdb0-8886-faf8-019a-fd6a44d34dc4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:totalLevel3
+value: 186
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=totalLevel3observationDate=2019value=186observationPeriod=P1Y"
+dcid: "dc/o/f3efhmq6zywqg"
+
+Node: 1_5/E2/27253c94-ca3c-50a7-bf85-c13980a5bbf8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/60nmtx3vvym15"
+
+Node: 1_5/E3/27253c94-ca3c-50a7-bf85-c13980a5bbf8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:totalUrbanLevel3
+value: 57
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=totalUrbanLevel3observationDate=2019value=57observationPeriod=P1Y"
+dcid: "dc/o/9whq90crv7md3"
+
+Node: 1_5/E0/27253c94-ca3c-50a7-bf85-c13980a5bbf8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:totalLevel2
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=totalLevel2observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/ret88rke4m70d"
+
+Node: 1_5/E1/27253c94-ca3c-50a7-bf85-c13980a5bbf8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:totalLevel3
+value: 235
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=totalLevel3observationDate=2019value=235observationPeriod=P1Y"
+dcid: "dc/o/05lvcg4kfr3q8"
+
+Node: 1_5/E2/ff174544-50b4-2128-2b2c-bc70ecdc246d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:totalUrbanLevel2
+value: 7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=totalUrbanLevel2observationDate=2019value=7observationPeriod=P1Y"
+dcid: "dc/o/jydhzvvs38kcd"
+
+Node: 1_5/E3/ff174544-50b4-2128-2b2c-bc70ecdc246d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:totalUrbanLevel3
+value: 80
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=totalUrbanLevel3observationDate=2019value=80observationPeriod=P1Y"
+dcid: "dc/o/xn2xycp3bqlsd"
+
+Node: 1_5/E0/ff174544-50b4-2128-2b2c-bc70ecdc246d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:totalLevel2
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=totalLevel2observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/nz07tcgbpbv8g"
+
+Node: 1_5/E1/ff174544-50b4-2128-2b2c-bc70ecdc246d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:totalLevel3
+value: 223
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=totalLevel3observationDate=2019value=223observationPeriod=P1Y"
+dcid: "dc/o/0rzx39yrwnezf"
+
+Node: 1_5/E2/6e23adc3-8119-72a6-457f-c7dd1130ec6f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/dx8e3x025swl5"
+
+Node: 1_5/E3/6e23adc3-8119-72a6-457f-c7dd1130ec6f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:totalUrbanLevel3
+value: 22
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=totalUrbanLevel3observationDate=2019value=22observationPeriod=P1Y"
+dcid: "dc/o/5bc6dyrxpjd62"
+
+Node: 1_5/E0/6e23adc3-8119-72a6-457f-c7dd1130ec6f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/53qts76p15fe9"
+
+Node: 1_5/E1/6e23adc3-8119-72a6-457f-c7dd1130ec6f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:totalLevel3
+value: 161
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=totalLevel3observationDate=2019value=161observationPeriod=P1Y"
+dcid: "dc/o/70bl45v83q801"
+
+Node: 1_5/E2/4095da93-102f-6a5b-025b-19ca6f363690
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/tc66v2kk5dlf5"
+
+Node: 1_5/E3/4095da93-102f-6a5b-025b-19ca6f363690
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:totalUrbanLevel3
+value: 19
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=totalUrbanLevel3observationDate=2019value=19observationPeriod=P1Y"
+dcid: "dc/o/14507cf7pn2f9"
+
+Node: 1_5/E0/4095da93-102f-6a5b-025b-19ca6f363690
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/vm1kd7fyg8487"
+
+Node: 1_5/E1/4095da93-102f-6a5b-025b-19ca6f363690
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:totalLevel3
+value: 286
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=totalLevel3observationDate=2019value=286observationPeriod=P1Y"
+dcid: "dc/o/xyjbwtjnhf4p5"
+
+Node: 1_5/E2/8cab73c7-6d5b-e274-771d-cd410ad88cee
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/0d09h8b1q3zd5"
+
+Node: 1_5/E3/8cab73c7-6d5b-e274-771d-cd410ad88cee
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:totalUrbanLevel3
+value: 18
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=totalUrbanLevel3observationDate=2019value=18observationPeriod=P1Y"
+dcid: "dc/o/e9w2g8tcqf9wf"
+
+Node: 1_5/E0/8cab73c7-6d5b-e274-771d-cd410ad88cee
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:totalLevel2
+value: 6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=totalLevel2observationDate=2019value=6observationPeriod=P1Y"
+dcid: "dc/o/fbz9gqw0knmr3"
+
+Node: 1_5/E1/8cab73c7-6d5b-e274-771d-cd410ad88cee
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:totalLevel3
+value: 116
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=totalLevel3observationDate=2019value=116observationPeriod=P1Y"
+dcid: "dc/o/rzqvh009148q6"
+
+Node: 1_5/E2/41d2e2ae-414d-d52b-feb0-e589f67ee1a3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/3kx70ql1hbte7"
+
+Node: 1_5/E3/41d2e2ae-414d-d52b-feb0-e589f67ee1a3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:totalUrbanLevel3
+value: 38
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=totalUrbanLevel3observationDate=2019value=38observationPeriod=P1Y"
+dcid: "dc/o/e8xk8hlrh2kt4"
+
+Node: 1_5/E0/41d2e2ae-414d-d52b-feb0-e589f67ee1a3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/bqzc4j62hhbmg"
+
+Node: 1_5/E1/41d2e2ae-414d-d52b-feb0-e589f67ee1a3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:totalLevel3
+value: 229
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=totalLevel3observationDate=2019value=229observationPeriod=P1Y"
+dcid: "dc/o/zztsj1vqpwtf2"
+
+Node: 1_5/E2/a56b5a34-f490-916d-cca3-3048b805c0db
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/tcshg1mmdqxs6"
+
+Node: 1_5/E3/a56b5a34-f490-916d-cca3-3048b805c0db
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:totalUrbanLevel3
+value: 24
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=totalUrbanLevel3observationDate=2019value=24observationPeriod=P1Y"
+dcid: "dc/o/xk9gq0msxf5rh"
+
+Node: 1_5/E0/a56b5a34-f490-916d-cca3-3048b805c0db
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/ykw0mvk12tmd6"
+
+Node: 1_5/E1/a56b5a34-f490-916d-cca3-3048b805c0db
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:totalLevel3
+value: 145
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=totalLevel3observationDate=2019value=145observationPeriod=P1Y"
+dcid: "dc/o/b49pymwzvmp64"
+
+Node: 1_5/E2/561c1d1d-0fe3-87f1-91dc-756e3a442d56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/sm3d1kpmy6vd6"
+
+Node: 1_5/E3/561c1d1d-0fe3-87f1-91dc-756e3a442d56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:totalUrbanLevel3
+value: 18
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=totalUrbanLevel3observationDate=2019value=18observationPeriod=P1Y"
+dcid: "dc/o/s2keqter5xe24"
+
+Node: 1_5/E0/561c1d1d-0fe3-87f1-91dc-756e3a442d56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/w9p7h4dgbhm5"
+
+Node: 1_5/E1/561c1d1d-0fe3-87f1-91dc-756e3a442d56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:totalLevel3
+value: 195
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=totalLevel3observationDate=2019value=195observationPeriod=P1Y"
+dcid: "dc/o/le9tzq38mgtb7"
+
+Node: 1_5/E2/a7f32645-7444-630a-e753-eeb1879b3515
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/e42g2j3xr91jb"
+
+Node: 1_5/E3/a7f32645-7444-630a-e753-eeb1879b3515
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:totalUrbanLevel3
+value: 22
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=totalUrbanLevel3observationDate=2019value=22observationPeriod=P1Y"
+dcid: "dc/o/xwpyqj0e2jf21"
+
+Node: 1_5/E0/a7f32645-7444-630a-e753-eeb1879b3515
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:totalLevel2
+value: 13
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=totalLevel2observationDate=2019value=13observationPeriod=P1Y"
+dcid: "dc/o/e6164bz710c62"
+
+Node: 1_5/E1/a7f32645-7444-630a-e753-eeb1879b3515
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:totalLevel3
+value: 199
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=totalLevel3observationDate=2019value=199observationPeriod=P1Y"
+dcid: "dc/o/kz6kzn7871kx9"
+
+Node: 1_5/E2/abd7353d-ffe3-4f02-4485-74a160a0390a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/gkf88fy28cj44"
+
+Node: 1_5/E3/abd7353d-ffe3-4f02-4485-74a160a0390a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:totalUrbanLevel3
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=totalUrbanLevel3observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/88316516wyg98"
+
+Node: 1_5/E0/abd7353d-ffe3-4f02-4485-74a160a0390a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/4w70exl3p4xt4"
+
+Node: 1_5/E1/abd7353d-ffe3-4f02-4485-74a160a0390a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:totalLevel3
+value: 122
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=totalLevel3observationDate=2019value=122observationPeriod=P1Y"
+dcid: "dc/o/r2w7tpmhdwbg3"
+
+Node: 1_5/E2/cc964dc2-675d-377a-4f35-2047c86da465
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/hzkc1mtfm70q3"
+
+Node: 1_5/E3/cc964dc2-675d-377a-4f35-2047c86da465
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:totalUrbanLevel3
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=totalUrbanLevel3observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/zcr52rcze7mc7"
+
+Node: 1_5/E0/cc964dc2-675d-377a-4f35-2047c86da465
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:totalLevel2
+value: 7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=totalLevel2observationDate=2019value=7observationPeriod=P1Y"
+dcid: "dc/o/42lsngmxsgwrf"
+
+Node: 1_5/E1/cc964dc2-675d-377a-4f35-2047c86da465
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:totalLevel3
+value: 141
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=totalLevel3observationDate=2019value=141observationPeriod=P1Y"
+dcid: "dc/o/209xywpbk5bgb"
+
+Node: 1_5/E2/91d9994e-63fe-ef43-c30d-8e82596158f8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/v4xz1nenx7kc"
+
+Node: 1_5/E3/91d9994e-63fe-ef43-c30d-8e82596158f8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:totalUrbanLevel3
+value: 21
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=totalUrbanLevel3observationDate=2019value=21observationPeriod=P1Y"
+dcid: "dc/o/rqhdw60p9es4b"
+
+Node: 1_5/E0/91d9994e-63fe-ef43-c30d-8e82596158f8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/pbbbb9cbfg2b8"
+
+Node: 1_5/E1/91d9994e-63fe-ef43-c30d-8e82596158f8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:totalLevel3
+value: 164
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=totalLevel3observationDate=2019value=164observationPeriod=P1Y"
+dcid: "dc/o/xmr0e8jgk2j27"
+
+Node: 1_5/E2/ca0630eb-ed21-ad5a-e2ba-a53d6d400ed6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/zyctb4f6smym4"
+
+Node: 1_5/E3/ca0630eb-ed21-ad5a-e2ba-a53d6d400ed6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:totalUrbanLevel3
+value: 23
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=totalUrbanLevel3observationDate=2019value=23observationPeriod=P1Y"
+dcid: "dc/o/xqkrgmre617k1"
+
+Node: 1_5/E0/ca0630eb-ed21-ad5a-e2ba-a53d6d400ed6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/4j2jwsqhyegr2"
+
+Node: 1_5/E1/ca0630eb-ed21-ad5a-e2ba-a53d6d400ed6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:totalLevel3
+value: 180
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=totalLevel3observationDate=2019value=180observationPeriod=P1Y"
+dcid: "dc/o/mc8frkcstlme9"
+
+Node: 1_5/E2/7df64191-aa7b-4702-eb14-1bfb762a9400
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/v7k9h49trjexd"
+
+Node: 1_5/E3/7df64191-aa7b-4702-eb14-1bfb762a9400
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:totalUrbanLevel3
+value: 41
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=totalUrbanLevel3observationDate=2019value=41observationPeriod=P1Y"
+dcid: "dc/o/4txpny8336j9b"
+
+Node: 1_5/E0/7df64191-aa7b-4702-eb14-1bfb762a9400
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/qmmqh0k7k5k28"
+
+Node: 1_5/E1/7df64191-aa7b-4702-eb14-1bfb762a9400
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:totalLevel3
+value: 180
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=totalLevel3observationDate=2019value=180observationPeriod=P1Y"
+dcid: "dc/o/vflt087zbgr6"
+
+Node: 1_5/E2/1e47b9b1-ac65-f6f4-943d-7ab4099dc63c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/rwghsxb178kr9"
+
+Node: 1_5/E3/1e47b9b1-ac65-f6f4-943d-7ab4099dc63c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:totalUrbanLevel3
+value: 19
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=totalUrbanLevel3observationDate=2019value=19observationPeriod=P1Y"
+dcid: "dc/o/s01rmcd1h5s59"
+
+Node: 1_5/E0/1e47b9b1-ac65-f6f4-943d-7ab4099dc63c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/ytm99wj2pqdw5"
+
+Node: 1_5/E1/1e47b9b1-ac65-f6f4-943d-7ab4099dc63c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:totalLevel3
+value: 226
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=totalLevel3observationDate=2019value=226observationPeriod=P1Y"
+dcid: "dc/o/5rkc84jxsbb3g"
+
+Node: 1_5/E2/ebdab5cf-b96d-0de5-47c5-2c2d68bee536
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/ff5ynnt4nwx92"
+
+Node: 1_5/E3/ebdab5cf-b96d-0de5-47c5-2c2d68bee536
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:totalUrbanLevel3
+value: 26
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=totalUrbanLevel3observationDate=2019value=26observationPeriod=P1Y"
+dcid: "dc/o/m5d3ggrplwjlc"
+
+Node: 1_5/E0/ebdab5cf-b96d-0de5-47c5-2c2d68bee536
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/se83s7cylz473"
+
+Node: 1_5/E1/ebdab5cf-b96d-0de5-47c5-2c2d68bee536
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:totalLevel3
+value: 230
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=totalLevel3observationDate=2019value=230observationPeriod=P1Y"
+dcid: "dc/o/41c8lqzjvg2r4"
+
+Node: 1_5/E2/50c135ec-ffa7-0499-4726-88fbabe0f53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/1rk5p83msyq4"
+
+Node: 1_5/E3/50c135ec-ffa7-0499-4726-88fbabe0f53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:totalUrbanLevel3
+value: 29
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=totalUrbanLevel3observationDate=2019value=29observationPeriod=P1Y"
+dcid: "dc/o/9e1pb53x0vmj7"
+
+Node: 1_5/E0/50c135ec-ffa7-0499-4726-88fbabe0f53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:totalLevel2
+value: 13
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=totalLevel2observationDate=2019value=13observationPeriod=P1Y"
+dcid: "dc/o/kkx0es7e91vvd"
+
+Node: 1_5/E1/50c135ec-ffa7-0499-4726-88fbabe0f53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:totalLevel3
+value: 277
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=totalLevel3observationDate=2019value=277observationPeriod=P1Y"
+dcid: "dc/o/wytjc0gtqvc5f"
+
+Node: 1_5/E2/9ab1a439-bfbe-be25-6e51-f66e993ca589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/ecjtzfzt4glb"
+
+Node: 1_5/E3/9ab1a439-bfbe-be25-6e51-f66e993ca589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalUrbanLevel3
+value: 14
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalUrbanLevel3observationDate=2019value=14observationPeriod=P1Y"
+dcid: "dc/o/zq0pe1sbh0m94"
+
+Node: 1_5/E0/9ab1a439-bfbe-be25-6e51-f66e993ca589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/v07v181zkcp46"
+
+Node: 1_5/E1/9ab1a439-bfbe-be25-6e51-f66e993ca589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalLevel3
+value: 130
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalLevel3observationDate=2019value=130observationPeriod=P1Y"
+dcid: "dc/o/2r3gdjjfmb2q3"
+
+Node: 1_5/E2/77fbead3-ce74-0b13-5b8d-67346a79934f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/6g3y0kfr87yth"
+
+Node: 1_5/E3/77fbead3-ce74-0b13-5b8d-67346a79934f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:totalUrbanLevel3
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=totalUrbanLevel3observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/zm01klpkp98xf"
+
+Node: 1_5/E0/77fbead3-ce74-0b13-5b8d-67346a79934f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/mkc4dz6kzwz68"
+
+Node: 1_5/E1/77fbead3-ce74-0b13-5b8d-67346a79934f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:totalLevel3
+value: 108
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=totalLevel3observationDate=2019value=108observationPeriod=P1Y"
+dcid: "dc/o/lhkk6ls7vghm2"
+
+Node: 1_5/E2/5bb42ada-6f94-6d9c-4061-3455c7c3322f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/zeq4eded65m7c"
+
+Node: 1_5/E3/5bb42ada-6f94-6d9c-4061-3455c7c3322f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:totalUrbanLevel3
+value: 16
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=totalUrbanLevel3observationDate=2019value=16observationPeriod=P1Y"
+dcid: "dc/o/qvqlzrpyl8lk4"
+
+Node: 1_5/E0/5bb42ada-6f94-6d9c-4061-3455c7c3322f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:totalLevel2
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=totalLevel2observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/p3ntg5mw6t2td"
+
+Node: 1_5/E1/5bb42ada-6f94-6d9c-4061-3455c7c3322f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:totalLevel3
+value: 204
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=totalLevel3observationDate=2019value=204observationPeriod=P1Y"
+dcid: "dc/o/pv6ebw0genjb1"
+
+Node: 1_5/E2/cfdb29c0-e509-0cb3-7f30-de9f4cfb0b78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/8tkx6yngxm1ph"
+
+Node: 1_5/E3/cfdb29c0-e509-0cb3-7f30-de9f4cfb0b78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:totalUrbanLevel3
+value: 19
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=totalUrbanLevel3observationDate=2019value=19observationPeriod=P1Y"
+dcid: "dc/o/72qnsqeh9vdt4"
+
+Node: 1_5/E0/cfdb29c0-e509-0cb3-7f30-de9f4cfb0b78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/lqdxbdpshwq3g"
+
+Node: 1_5/E1/cfdb29c0-e509-0cb3-7f30-de9f4cfb0b78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:totalLevel3
+value: 210
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=totalLevel3observationDate=2019value=210observationPeriod=P1Y"
+dcid: "dc/o/4c0s2kncv7m24"
+
+Node: 1_5/E2/1b432e08-aaba-a0fb-944a-83b6c7e5c9e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/33m17sdsyjcrc"
+
+Node: 1_5/E3/1b432e08-aaba-a0fb-944a-83b6c7e5c9e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalUrbanLevel3
+value: 63
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalUrbanLevel3observationDate=2019value=63observationPeriod=P1Y"
+dcid: "dc/o/slqltrxtx4mb2"
+
+Node: 1_5/E0/1b432e08-aaba-a0fb-944a-83b6c7e5c9e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalLevel2
+value: 27
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalLevel2observationDate=2019value=27observationPeriod=P1Y"
+dcid: "dc/o/brpw094b1je98"
+
+Node: 1_5/E1/1b432e08-aaba-a0fb-944a-83b6c7e5c9e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:totalLevel3
+value: 559
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=totalLevel3observationDate=2019value=559observationPeriod=P1Y"
+dcid: "dc/o/w5ge221rs7etf"
+
+Node: 1_5/E2/9a6bbbcc-be6a-a5ec-5e82-9be53ab27d38
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:totalUrbanLevel2
+value: 4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=totalUrbanLevel2observationDate=2019value=4observationPeriod=P1Y"
+dcid: "dc/o/mrqttrw1q6qlg"
+
+Node: 1_5/E3/9a6bbbcc-be6a-a5ec-5e82-9be53ab27d38
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:totalUrbanLevel3
+value: 49
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=totalUrbanLevel3observationDate=2019value=49observationPeriod=P1Y"
+dcid: "dc/o/xe5p0nbbly17d"
+
+Node: 1_5/E0/9a6bbbcc-be6a-a5ec-5e82-9be53ab27d38
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:totalLevel2
+value: 21
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=totalLevel2observationDate=2019value=21observationPeriod=P1Y"
+dcid: "dc/o/fqex2ggltk3h9"
+
+Node: 1_5/E1/9a6bbbcc-be6a-a5ec-5e82-9be53ab27d38
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:totalLevel3
+value: 480
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=totalLevel3observationDate=2019value=480observationPeriod=P1Y"
+dcid: "dc/o/2smmm805dgl7c"
+
+Node: 1_5/E2/1f857d32-d832-9aaf-31d6-384248c3ba97
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/lvn7y895mwsl7"
+
+Node: 1_5/E3/1f857d32-d832-9aaf-31d6-384248c3ba97
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:totalUrbanLevel3
+value: 33
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=totalUrbanLevel3observationDate=2019value=33observationPeriod=P1Y"
+dcid: "dc/o/02fe2ds6kydph"
+
+Node: 1_5/E0/1f857d32-d832-9aaf-31d6-384248c3ba97
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:totalLevel2
+value: 13
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=totalLevel2observationDate=2019value=13observationPeriod=P1Y"
+dcid: "dc/o/br4wg8fmf3qx5"
+
+Node: 1_5/E1/1f857d32-d832-9aaf-31d6-384248c3ba97
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:totalLevel3
+value: 262
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=totalLevel3observationDate=2019value=262observationPeriod=P1Y"
+dcid: "dc/o/ls4mfcyzwn442"
+
+Node: 1_5/E2/f00d7e7c-cb2c-9be9-c8a9-627caf713171
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/8cv073g7z0mk2"
+
+Node: 1_5/E3/f00d7e7c-cb2c-9be9-c8a9-627caf713171
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:totalUrbanLevel3
+value: 23
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=totalUrbanLevel3observationDate=2019value=23observationPeriod=P1Y"
+dcid: "dc/o/0b13r45mpd4m9"
+
+Node: 1_5/E0/f00d7e7c-cb2c-9be9-c8a9-627caf713171
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/nm6k9pwd1s406"
+
+Node: 1_5/E1/f00d7e7c-cb2c-9be9-c8a9-627caf713171
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:totalLevel3
+value: 159
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=totalLevel3observationDate=2019value=159observationPeriod=P1Y"
+dcid: "dc/o/lgvmqwkcdjcwf"
+
+Node: 1_5/E2/f1476bb0-cc1c-693b-7622-c0d47e36204d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/4b6qmp4h493gf"
+
+Node: 1_5/E3/f1476bb0-cc1c-693b-7622-c0d47e36204d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:totalUrbanLevel3
+value: 24
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=totalUrbanLevel3observationDate=2019value=24observationPeriod=P1Y"
+dcid: "dc/o/lj55fp2x11r8h"
+
+Node: 1_5/E0/f1476bb0-cc1c-693b-7622-c0d47e36204d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/xc85qhrf10889"
+
+Node: 1_5/E1/f1476bb0-cc1c-693b-7622-c0d47e36204d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:totalLevel3
+value: 141
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=totalLevel3observationDate=2019value=141observationPeriod=P1Y"
+dcid: "dc/o/6d6nl8lgz3jv2"
+
+Node: 1_5/E2/7d18fe40-9a00-4cc9-112d-32320a40a72f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/lsw3grpky1pv2"
+
+Node: 1_5/E3/7d18fe40-9a00-4cc9-112d-32320a40a72f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:totalUrbanLevel3
+value: 47
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=totalUrbanLevel3observationDate=2019value=47observationPeriod=P1Y"
+dcid: "dc/o/dh1svhgezsglf"
+
+Node: 1_5/E0/7d18fe40-9a00-4cc9-112d-32320a40a72f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/9nc9ef1g6xnc2"
+
+Node: 1_5/E1/7d18fe40-9a00-4cc9-112d-32320a40a72f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:totalLevel3
+value: 152
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=totalLevel3observationDate=2019value=152observationPeriod=P1Y"
+dcid: "dc/o/4bke485rwkmh9"
+
+Node: 1_5/E2/301e2efd-df25-93d9-8b42-e4aa8a886f3f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:totalUrbanLevel2
+value: 6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=totalUrbanLevel2observationDate=2019value=6observationPeriod=P1Y"
+dcid: "dc/o/hrg17tr7kg74h"
+
+Node: 1_5/E3/301e2efd-df25-93d9-8b42-e4aa8a886f3f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:totalUrbanLevel3
+value: 45
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=totalUrbanLevel3observationDate=2019value=45observationPeriod=P1Y"
+dcid: "dc/o/q973b3c6j88v1"
+
+Node: 1_5/E0/301e2efd-df25-93d9-8b42-e4aa8a886f3f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/gz81bsv36gm7g"
+
+Node: 1_5/E1/301e2efd-df25-93d9-8b42-e4aa8a886f3f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:totalLevel3
+value: 56
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=totalLevel3observationDate=2019value=56observationPeriod=P1Y"
+dcid: "dc/o/7l3npws0hnpc6"
+
+Node: 1_5/E2/c376718a-f1ca-40d5-29de-5abef233a676
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/1qwkrl6hbypfd"
+
+Node: 1_5/E3/c376718a-f1ca-40d5-29de-5abef233a676
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:totalUrbanLevel3
+value: 37
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=totalUrbanLevel3observationDate=2019value=37observationPeriod=P1Y"
+dcid: "dc/o/q79p6blbe20sb"
+
+Node: 1_5/E0/c376718a-f1ca-40d5-29de-5abef233a676
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:totalLevel2
+value: 18
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=totalLevel2observationDate=2019value=18observationPeriod=P1Y"
+dcid: "dc/o/4gr2m44ppy3kf"
+
+Node: 1_5/E1/c376718a-f1ca-40d5-29de-5abef233a676
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:totalLevel3
+value: 244
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=totalLevel3observationDate=2019value=244observationPeriod=P1Y"
+dcid: "dc/o/6w5w8c6y0e169"
+
+Node: 1_5/E2/f88a7200-e1c6-a480-b6e9-fefdb2b93cf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/wmtqrd54thbb"
+
+Node: 1_5/E3/f88a7200-e1c6-a480-b6e9-fefdb2b93cf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:totalUrbanLevel3
+value: 18
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=totalUrbanLevel3observationDate=2019value=18observationPeriod=P1Y"
+dcid: "dc/o/fdh84cvlvs79g"
+
+Node: 1_5/E0/f88a7200-e1c6-a480-b6e9-fefdb2b93cf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:totalLevel2
+value: 14
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=totalLevel2observationDate=2019value=14observationPeriod=P1Y"
+dcid: "dc/o/nxc1xf8fgx5jg"
+
+Node: 1_5/E1/f88a7200-e1c6-a480-b6e9-fefdb2b93cf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:totalLevel3
+value: 184
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=totalLevel3observationDate=2019value=184observationPeriod=P1Y"
+dcid: "dc/o/0cfl2c93t5521"
+
+Node: 1_5/E2/cf0a87d7-8d3c-3d6f-7f1d-fad1deefa7b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/fwyrbspx0ltv5"
+
+Node: 1_5/E3/cf0a87d7-8d3c-3d6f-7f1d-fad1deefa7b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:totalUrbanLevel3
+value: 33
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=totalUrbanLevel3observationDate=2019value=33observationPeriod=P1Y"
+dcid: "dc/o/5d9d61rd9fkfd"
+
+Node: 1_5/E0/cf0a87d7-8d3c-3d6f-7f1d-fad1deefa7b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/ktx1m7hjz6bd3"
+
+Node: 1_5/E1/cf0a87d7-8d3c-3d6f-7f1d-fad1deefa7b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:totalLevel3
+value: 159
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=totalLevel3observationDate=2019value=159observationPeriod=P1Y"
+dcid: "dc/o/smqhyjqxzzvgc"
+
+Node: 1_5/E2/9f4334c5-54b0-4a22-a69b-d025f10ca02a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/qcvtf7g5gj1f"
+
+Node: 1_5/E3/9f4334c5-54b0-4a22-a69b-d025f10ca02a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:totalUrbanLevel3
+value: 24
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=totalUrbanLevel3observationDate=2019value=24observationPeriod=P1Y"
+dcid: "dc/o/p8hkt470k13r9"
+
+Node: 1_5/E0/9f4334c5-54b0-4a22-a69b-d025f10ca02a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/bg6y19djm3qg8"
+
+Node: 1_5/E1/9f4334c5-54b0-4a22-a69b-d025f10ca02a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:totalLevel3
+value: 112
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=totalLevel3observationDate=2019value=112observationPeriod=P1Y"
+dcid: "dc/o/tql8ff39vcl3c"
+
+Node: 1_5/E2/2e122ad9-4d15-3000-f5ca-fdc73936a584
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/69kq265e3zl3c"
+
+Node: 1_5/E3/2e122ad9-4d15-3000-f5ca-fdc73936a584
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:totalUrbanLevel3
+value: 41
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=totalUrbanLevel3observationDate=2019value=41observationPeriod=P1Y"
+dcid: "dc/o/v18677zjdz0k4"
+
+Node: 1_5/E0/2e122ad9-4d15-3000-f5ca-fdc73936a584
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/czchxntrljhc1"
+
+Node: 1_5/E1/2e122ad9-4d15-3000-f5ca-fdc73936a584
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:totalLevel3
+value: 140
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=totalLevel3observationDate=2019value=140observationPeriod=P1Y"
+dcid: "dc/o/5ptjnr2tgmgx"
+
+Node: 1_5/E2/ec2836ac-ec2e-7814-65c1-b6281807e957
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/nkz5lphy5fb4b"
+
+Node: 1_5/E3/ec2836ac-ec2e-7814-65c1-b6281807e957
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:totalUrbanLevel3
+value: 18
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=totalUrbanLevel3observationDate=2019value=18observationPeriod=P1Y"
+dcid: "dc/o/crkvtm5nt8kcd"
+
+Node: 1_5/E0/ec2836ac-ec2e-7814-65c1-b6281807e957
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:totalLevel2
+value: 7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=totalLevel2observationDate=2019value=7observationPeriod=P1Y"
+dcid: "dc/o/fp8j1z1qjf0q7"
+
+Node: 1_5/E1/ec2836ac-ec2e-7814-65c1-b6281807e957
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:totalLevel3
+value: 65
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=totalLevel3observationDate=2019value=65observationPeriod=P1Y"
+dcid: "dc/o/xmmzhtk7jp8kf"
+
+Node: 1_5/E2/f2810a41-176a-c58b-ba40-fea9348fb8e8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/9ezm3g3p61sbc"
+
+Node: 1_5/E3/f2810a41-176a-c58b-ba40-fea9348fb8e8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:totalUrbanLevel3
+value: 31
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=totalUrbanLevel3observationDate=2019value=31observationPeriod=P1Y"
+dcid: "dc/o/bn5pt2m9cs2t2"
+
+Node: 1_5/E0/f2810a41-176a-c58b-ba40-fea9348fb8e8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/ghg2qwrzj3rb8"
+
+Node: 1_5/E1/f2810a41-176a-c58b-ba40-fea9348fb8e8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:totalLevel3
+value: 127
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=totalLevel3observationDate=2019value=127observationPeriod=P1Y"
+dcid: "dc/o/jbw5fcy2lzf63"
+
+Node: 1_5/E2/c5638f24-7aea-faa4-668e-6cfa9964a0c4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/6v8xc79yn63r4"
+
+Node: 1_5/E3/c5638f24-7aea-faa4-668e-6cfa9964a0c4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:totalUrbanLevel3
+value: 17
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=totalUrbanLevel3observationDate=2019value=17observationPeriod=P1Y"
+dcid: "dc/o/mrzps4yllyhj8"
+
+Node: 1_5/E0/c5638f24-7aea-faa4-668e-6cfa9964a0c4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:totalLevel2
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=totalLevel2observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/48r7jcgdq8mr8"
+
+Node: 1_5/E1/c5638f24-7aea-faa4-668e-6cfa9964a0c4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:totalLevel3
+value: 102
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=totalLevel3observationDate=2019value=102observationPeriod=P1Y"
+dcid: "dc/o/xbn7snslxbhg7"
+
+Node: 1_5/E2/18daa11a-3570-1e2a-0f58-63bef13a623d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/zzspfpbqf4kb7"
+
+Node: 1_5/E3/18daa11a-3570-1e2a-0f58-63bef13a623d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:totalUrbanLevel3
+value: 38
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=totalUrbanLevel3observationDate=2019value=38observationPeriod=P1Y"
+dcid: "dc/o/b21ltxcz6gkt8"
+
+Node: 1_5/E0/18daa11a-3570-1e2a-0f58-63bef13a623d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:totalLevel2
+value: 17
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=totalLevel2observationDate=2019value=17observationPeriod=P1Y"
+dcid: "dc/o/l68dh46t4fd1h"
+
+Node: 1_5/E1/18daa11a-3570-1e2a-0f58-63bef13a623d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:totalLevel3
+value: 222
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=totalLevel3observationDate=2019value=222observationPeriod=P1Y"
+dcid: "dc/o/zpxhkl0bjw38h"
+
+Node: 1_5/E2/dc5877e2-87b4-2d16-9ec2-474896b20942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/yf636qkrdsrb6"
+
+Node: 1_5/E3/dc5877e2-87b4-2d16-9ec2-474896b20942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:totalUrbanLevel3
+value: 32
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=totalUrbanLevel3observationDate=2019value=32observationPeriod=P1Y"
+dcid: "dc/o/jd5l4ywpnx98f"
+
+Node: 1_5/E0/dc5877e2-87b4-2d16-9ec2-474896b20942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:totalLevel2
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=totalLevel2observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/j6v1z46dxng4g"
+
+Node: 1_5/E1/dc5877e2-87b4-2d16-9ec2-474896b20942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:totalLevel3
+value: 184
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=totalLevel3observationDate=2019value=184observationPeriod=P1Y"
+dcid: "dc/o/t5004gkjqt0n8"
+
+Node: 1_5/E2/659ddd13-95ca-7eda-0bec-c80b4cf4bd0b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/bg10m1v13l2lb"
+
+Node: 1_5/E3/659ddd13-95ca-7eda-0bec-c80b4cf4bd0b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:totalUrbanLevel3
+value: 10
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=totalUrbanLevel3observationDate=2019value=10observationPeriod=P1Y"
+dcid: "dc/o/vdrppjeyc797"
+
+Node: 1_5/E0/659ddd13-95ca-7eda-0bec-c80b4cf4bd0b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/v3b868n9kzb1h"
+
+Node: 1_5/E1/659ddd13-95ca-7eda-0bec-c80b4cf4bd0b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:totalLevel3
+value: 71
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=totalLevel3observationDate=2019value=71observationPeriod=P1Y"
+dcid: "dc/o/1e6r2tytkq0wc"
+
+Node: 1_5/E2/b62d5845-2372-dbc0-9ad4-78ec9e117586
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/ngj20yh175pq7"
+
+Node: 1_5/E3/b62d5845-2372-dbc0-9ad4-78ec9e117586
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:totalUrbanLevel3
+value: 31
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=totalUrbanLevel3observationDate=2019value=31observationPeriod=P1Y"
+dcid: "dc/o/fwhs23cvy32pd"
+
+Node: 1_5/E0/b62d5845-2372-dbc0-9ad4-78ec9e117586
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:totalLevel2
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=totalLevel2observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/32byghj7gfn6"
+
+Node: 1_5/E1/b62d5845-2372-dbc0-9ad4-78ec9e117586
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:totalLevel3
+value: 147
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=totalLevel3observationDate=2019value=147observationPeriod=P1Y"
+dcid: "dc/o/85rbtskg0kpt1"
+
+Node: 1_5/E2/be8441fe-e696-7ec7-d434-4a4761c8ac8c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/x9mjfchb60ty8"
+
+Node: 1_5/E3/be8441fe-e696-7ec7-d434-4a4761c8ac8c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:totalUrbanLevel3
+value: 21
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=totalUrbanLevel3observationDate=2019value=21observationPeriod=P1Y"
+dcid: "dc/o/ljf55rjc7vz99"
+
+Node: 1_5/E0/be8441fe-e696-7ec7-d434-4a4761c8ac8c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/4q9sgvdvmh95c"
+
+Node: 1_5/E1/be8441fe-e696-7ec7-d434-4a4761c8ac8c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:totalLevel3
+value: 111
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=totalLevel3observationDate=2019value=111observationPeriod=P1Y"
+dcid: "dc/o/g52jjqhh5fdnd"
+
+Node: 1_5/E2/5b6e8758-93f3-b3fd-5f9f-7fef99d94f96
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/kpfwenm9l63p4"
+
+Node: 1_5/E3/5b6e8758-93f3-b3fd-5f9f-7fef99d94f96
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:totalUrbanLevel3
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=totalUrbanLevel3observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/w3csw3j97b6p2"
+
+Node: 1_5/E0/5b6e8758-93f3-b3fd-5f9f-7fef99d94f96
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/j2xnml3lrt7e7"
+
+Node: 1_5/E1/5b6e8758-93f3-b3fd-5f9f-7fef99d94f96
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:totalLevel3
+value: 95
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=totalLevel3observationDate=2019value=95observationPeriod=P1Y"
+dcid: "dc/o/ksdez6b8pr3f7"
+
+Node: 1_5/E2/4833e229-4919-fd0e-cd0a-f35d2284eeb9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:totalUrbanLevel2
+value: 5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=totalUrbanLevel2observationDate=2019value=5observationPeriod=P1Y"
+dcid: "dc/o/m2r54x1l16508"
+
+Node: 1_5/E3/4833e229-4919-fd0e-cd0a-f35d2284eeb9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:totalUrbanLevel3
+value: 45
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=totalUrbanLevel3observationDate=2019value=45observationPeriod=P1Y"
+dcid: "dc/o/18vvywzwn4wz8"
+
+Node: 1_5/E0/4833e229-4919-fd0e-cd0a-f35d2284eeb9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/dphmhtz3r9sg6"
+
+Node: 1_5/E1/4833e229-4919-fd0e-cd0a-f35d2284eeb9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:totalLevel3
+value: 91
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=totalLevel3observationDate=2019value=91observationPeriod=P1Y"
+dcid: "dc/o/cm7k71y52zdxb"
+
+Node: 1_5/E2/409f098f-0401-f3f0-6357-2130fad54a80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/jhxhb51ekxfvg"
+
+Node: 1_5/E3/409f098f-0401-f3f0-6357-2130fad54a80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:totalUrbanLevel3
+value: 48
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=totalUrbanLevel3observationDate=2019value=48observationPeriod=P1Y"
+dcid: "dc/o/leh9sp36cbszc"
+
+Node: 1_5/E0/409f098f-0401-f3f0-6357-2130fad54a80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/5z02v0p4mtrzd"
+
+Node: 1_5/E1/409f098f-0401-f3f0-6357-2130fad54a80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:totalLevel3
+value: 170
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=totalLevel3observationDate=2019value=170observationPeriod=P1Y"
+dcid: "dc/o/pnfmlvl4cbg5h"
+
+Node: 1_5/E2/4dc8a6ed-e9bc-b92f-0ab8-dd6e31abb407
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/kck486ljzb6n1"
+
+Node: 1_5/E3/4dc8a6ed-e9bc-b92f-0ab8-dd6e31abb407
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:totalUrbanLevel3
+value: 35
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=totalUrbanLevel3observationDate=2019value=35observationPeriod=P1Y"
+dcid: "dc/o/yvscr72tqk5e8"
+
+Node: 1_5/E0/4dc8a6ed-e9bc-b92f-0ab8-dd6e31abb407
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/5z80g9b5mp2t2"
+
+Node: 1_5/E1/4dc8a6ed-e9bc-b92f-0ab8-dd6e31abb407
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:totalLevel3
+value: 82
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=totalLevel3observationDate=2019value=82observationPeriod=P1Y"
+dcid: "dc/o/f9qx234x6sghc"
+
+Node: 1_5/E2/0a165dc5-2151-3258-278f-76d85a434743
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:totalUrbanLevel2
+value: 19
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=totalUrbanLevel2observationDate=2019value=19observationPeriod=P1Y"
+dcid: "dc/o/l3txy6bw4rzy6"
+
+Node: 1_5/E3/0a165dc5-2151-3258-278f-76d85a434743
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:totalUrbanLevel3
+value: 264
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=totalUrbanLevel3observationDate=2019value=264observationPeriod=P1Y"
+dcid: "dc/o/5cshl16fyp9l8"
+
+Node: 1_5/E0/0a165dc5-2151-3258-278f-76d85a434743
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:totalLevel2
+value: 24
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=totalLevel2observationDate=2019value=24observationPeriod=P1Y"
+dcid: "dc/o/pmtmnyjs0ymcc"
+
+Node: 1_5/E1/0a165dc5-2151-3258-278f-76d85a434743
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:totalLevel3
+value: 322
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=totalLevel3observationDate=2019value=322observationPeriod=P1Y"
+dcid: "dc/o/wdlmd81xj3gyf"
+
+Node: 1_5/E2/de8ef040-c638-e11f-1be5-06aec2eecf61
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/wjvbr1x93fj6g"
+
+Node: 1_5/E3/de8ef040-c638-e11f-1be5-06aec2eecf61
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:totalUrbanLevel3
+value: 26
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=totalUrbanLevel3observationDate=2019value=26observationPeriod=P1Y"
+dcid: "dc/o/9rt85tpd17e31"
+
+Node: 1_5/E0/de8ef040-c638-e11f-1be5-06aec2eecf61
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:totalLevel2
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=totalLevel2observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/sqzezq5d3v098"
+
+Node: 1_5/E1/de8ef040-c638-e11f-1be5-06aec2eecf61
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:totalLevel3
+value: 192
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=totalLevel3observationDate=2019value=192observationPeriod=P1Y"
+dcid: "dc/o/gx37v7hm0shf6"
+
+Node: 1_5/E2/6e8f2199-8bbc-d766-8914-0c92dcd061e5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/dy4w0qgg0wj8g"
+
+Node: 1_5/E3/6e8f2199-8bbc-d766-8914-0c92dcd061e5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:totalUrbanLevel3
+value: 29
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=totalUrbanLevel3observationDate=2019value=29observationPeriod=P1Y"
+dcid: "dc/o/24z6kejvj1be9"
+
+Node: 1_5/E0/6e8f2199-8bbc-d766-8914-0c92dcd061e5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/2jlqebjzctfq9"
+
+Node: 1_5/E1/6e8f2199-8bbc-d766-8914-0c92dcd061e5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:totalLevel3
+value: 173
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=totalLevel3observationDate=2019value=173observationPeriod=P1Y"
+dcid: "dc/o/xkkvc5zq6ecd2"
+
+Node: 1_5/E2/3b21e43c-651e-2435-8a09-50f7321574a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/jgr4kbgb4nebg"
+
+Node: 1_5/E3/3b21e43c-651e-2435-8a09-50f7321574a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:totalUrbanLevel3
+value: 17
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=totalUrbanLevel3observationDate=2019value=17observationPeriod=P1Y"
+dcid: "dc/o/c916bgr0dvbv"
+
+Node: 1_5/E0/3b21e43c-651e-2435-8a09-50f7321574a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/95rfn3tzhhc71"
+
+Node: 1_5/E1/3b21e43c-651e-2435-8a09-50f7321574a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:totalLevel3
+value: 164
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=totalLevel3observationDate=2019value=164observationPeriod=P1Y"
+dcid: "dc/o/r1lr37pd8ytqd"
+
+Node: 1_5/E2/7098f211-be01-43bf-32e3-644535e608b4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/h1sjd3tydmp7h"
+
+Node: 1_5/E3/7098f211-be01-43bf-32e3-644535e608b4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:totalUrbanLevel3
+value: 21
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=totalUrbanLevel3observationDate=2019value=21observationPeriod=P1Y"
+dcid: "dc/o/652vt6gqz1lm9"
+
+Node: 1_5/E0/7098f211-be01-43bf-32e3-644535e608b4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/b7q64xxf242s"
+
+Node: 1_5/E1/7098f211-be01-43bf-32e3-644535e608b4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:totalLevel3
+value: 106
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=totalLevel3observationDate=2019value=106observationPeriod=P1Y"
+dcid: "dc/o/x6qw9bjbzbeqc"
+
+Node: 1_5/E2/a3e05054-37e7-a58f-7a06-35bfb4759714
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/glmtf4m4l29lh"
+
+Node: 1_5/E3/a3e05054-37e7-a58f-7a06-35bfb4759714
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:totalUrbanLevel3
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=totalUrbanLevel3observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/0gwdjkwm7dfb7"
+
+Node: 1_5/E0/a3e05054-37e7-a58f-7a06-35bfb4759714
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/kcpbwhc949sd7"
+
+Node: 1_5/E1/a3e05054-37e7-a58f-7a06-35bfb4759714
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:totalLevel3
+value: 109
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=totalLevel3observationDate=2019value=109observationPeriod=P1Y"
+dcid: "dc/o/2e4mb3ywf4yld"
+
+Node: 1_5/E2/0a81fe43-e214-eea1-72ba-641be2f980a7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/wx1c7p31hwys7"
+
+Node: 1_5/E3/0a81fe43-e214-eea1-72ba-641be2f980a7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:totalUrbanLevel3
+value: 26
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=totalUrbanLevel3observationDate=2019value=26observationPeriod=P1Y"
+dcid: "dc/o/pevy35tnxzgh4"
+
+Node: 1_5/E0/0a81fe43-e214-eea1-72ba-641be2f980a7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:totalLevel2
+value: 12
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=totalLevel2observationDate=2019value=12observationPeriod=P1Y"
+dcid: "dc/o/2zffepg8zyjvg"
+
+Node: 1_5/E1/0a81fe43-e214-eea1-72ba-641be2f980a7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:totalLevel3
+value: 144
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=totalLevel3observationDate=2019value=144observationPeriod=P1Y"
+dcid: "dc/o/sc20z33p71n7c"
+
+Node: 1_5/E2/0fb4535a-a3dd-adaa-e664-560129818976
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/gdd97y770zkn8"
+
+Node: 1_5/E3/0fb4535a-a3dd-adaa-e664-560129818976
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:totalUrbanLevel3
+value: 37
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=totalUrbanLevel3observationDate=2019value=37observationPeriod=P1Y"
+dcid: "dc/o/jp4lsd2hhlt45"
+
+Node: 1_5/E0/0fb4535a-a3dd-adaa-e664-560129818976
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/pgv2r28zxlyh"
+
+Node: 1_5/E1/0fb4535a-a3dd-adaa-e664-560129818976
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:totalLevel3
+value: 156
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=totalLevel3observationDate=2019value=156observationPeriod=P1Y"
+dcid: "dc/o/0z0m4xcsjz9s1"
+
+Node: 1_5/E2/e2abfeaa-d2bb-fe8a-1c08-62a1f4839e71
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/rxxztp0m9x17b"
+
+Node: 1_5/E3/e2abfeaa-d2bb-fe8a-1c08-62a1f4839e71
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:totalUrbanLevel3
+value: 28
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=totalUrbanLevel3observationDate=2019value=28observationPeriod=P1Y"
+dcid: "dc/o/3mkzk2qqyxj7b"
+
+Node: 1_5/E0/e2abfeaa-d2bb-fe8a-1c08-62a1f4839e71
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:totalLevel2
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=totalLevel2observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/ykyw1zet3wkjc"
+
+Node: 1_5/E1/e2abfeaa-d2bb-fe8a-1c08-62a1f4839e71
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:totalLevel3
+value: 145
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=totalLevel3observationDate=2019value=145observationPeriod=P1Y"
+dcid: "dc/o/jb8j0s6certr4"
+
+Node: 1_5/E2/364e3b45-ca25-0266-46bb-38a75d640265
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:totalUrbanLevel2
+value: 5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=totalUrbanLevel2observationDate=2019value=5observationPeriod=P1Y"
+dcid: "dc/o/necxq3b452p42"
+
+Node: 1_5/E3/364e3b45-ca25-0266-46bb-38a75d640265
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:totalUrbanLevel3
+value: 49
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=totalUrbanLevel3observationDate=2019value=49observationPeriod=P1Y"
+dcid: "dc/o/pkl1mehvzylx4"
+
+Node: 1_5/E0/364e3b45-ca25-0266-46bb-38a75d640265
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/cw511stpng4b4"
+
+Node: 1_5/E1/364e3b45-ca25-0266-46bb-38a75d640265
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:totalLevel3
+value: 85
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=totalLevel3observationDate=2019value=85observationPeriod=P1Y"
+dcid: "dc/o/zdbycn2h9m3e2"
+
+Node: 1_5/E2/1ba2319d-7b52-dafc-6119-55b37e840ae5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/00d2sd40295d4"
+
+Node: 1_5/E3/1ba2319d-7b52-dafc-6119-55b37e840ae5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:totalUrbanLevel3
+value: 23
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=totalUrbanLevel3observationDate=2019value=23observationPeriod=P1Y"
+dcid: "dc/o/c5shrq8c4q35"
+
+Node: 1_5/E0/1ba2319d-7b52-dafc-6119-55b37e840ae5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:totalLevel2
+value: 8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=totalLevel2observationDate=2019value=8observationPeriod=P1Y"
+dcid: "dc/o/755kf8mtnl1t8"
+
+Node: 1_5/E1/1ba2319d-7b52-dafc-6119-55b37e840ae5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:totalLevel3
+value: 76
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=totalLevel3observationDate=2019value=76observationPeriod=P1Y"
+dcid: "dc/o/9pe1xh0khv1v6"
+
+Node: 1_5/E2/a49ecf9a-a4b8-0788-8e2b-71aca58f6336
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:totalUrbanLevel2
+value: 3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=totalUrbanLevel2observationDate=2019value=3observationPeriod=P1Y"
+dcid: "dc/o/4v1s8ejhdbyrb"
+
+Node: 1_5/E3/a49ecf9a-a4b8-0788-8e2b-71aca58f6336
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:totalUrbanLevel3
+value: 29
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=totalUrbanLevel3observationDate=2019value=29observationPeriod=P1Y"
+dcid: "dc/o/xm1793912s0d7"
+
+Node: 1_5/E0/a49ecf9a-a4b8-0788-8e2b-71aca58f6336
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:totalLevel2
+value: 11
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=totalLevel2observationDate=2019value=11observationPeriod=P1Y"
+dcid: "dc/o/9c00wccpbkfl5"
+
+Node: 1_5/E1/a49ecf9a-a4b8-0788-8e2b-71aca58f6336
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:totalLevel3
+value: 109
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=totalLevel3observationDate=2019value=109observationPeriod=P1Y"
+dcid: "dc/o/mh3d7fb5re1qf"
+
+Node: 1_5/E2/5bddedd5-b0b9-0f01-c13e-f452e60d57a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:totalUrbanLevel2
+value: 2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=totalUrbanLevel2observationDate=2019value=2observationPeriod=P1Y"
+dcid: "dc/o/f33rvdj2swfs"
+
+Node: 1_5/E3/5bddedd5-b0b9-0f01-c13e-f452e60d57a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:totalUrbanLevel3
+value: 15
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=totalUrbanLevel3observationDate=2019value=15observationPeriod=P1Y"
+dcid: "dc/o/p4mhkz4kvtkgb"
+
+Node: 1_5/E0/5bddedd5-b0b9-0f01-c13e-f452e60d57a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:totalLevel2
+value: 7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=totalLevel2observationDate=2019value=7observationPeriod=P1Y"
+dcid: "dc/o/hr5wk1zy7l9l7"
+
+Node: 1_5/E1/5bddedd5-b0b9-0f01-c13e-f452e60d57a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:totalLevel3
+value: 64
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=totalLevel3observationDate=2019value=64observationPeriod=P1Y"
+dcid: "dc/o/rqr2q3p6esdr4"
+
+Node: 1_5/E2/ac12f831-4936-80d8-be07-186dee733856
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:totalUrbanLevel2
+value: 1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=totalUrbanLevel2observationDate=2019value=1observationPeriod=P1Y"
+dcid: "dc/o/07msmnyjvpjc3"
+
+Node: 1_5/E3/ac12f831-4936-80d8-be07-186dee733856
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:totalUrbanLevel3
+value: 19
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=totalUrbanLevel3observationDate=2019value=19observationPeriod=P1Y"
+dcid: "dc/o/d7ccdedcvn8x"
+
+Node: 1_5/E0/ac12f831-4936-80d8-be07-186dee733856
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:totalLevel2
+value: 9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=totalLevel2observationDate=2019value=9observationPeriod=P1Y"
+dcid: "dc/o/pzynhy10h52bh"
+
+Node: 1_5/E1/ac12f831-4936-80d8-be07-186dee733856
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:totalLevel3
+value: 101
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=totalLevel3observationDate=2019value=101observationPeriod=P1Y"
+dcid: "dc/o/n1wxzyqzje4p8"
+

@@ -1,0 +1,516 @@
+Node: E:coso->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:country/VNM
+observationPeriod: "P1Y"
+value: C:coso->CaNuoc
+
+Node: E:coso->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q1858
+observationPeriod: "P1Y"
+value: C:coso->hanoi
+
+Node: E:coso->E2
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q27566
+observationPeriod: "P1Y"
+value: C:coso->vinhphuc
+
+Node: E:coso->E3
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33381
+observationPeriod: "P1Y"
+value: C:coso->bacninh
+
+Node: E:coso->E4
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33396
+observationPeriod: "P1Y"
+value: C:coso->quangninh
+
+Node: E:coso->E5
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36354
+observationPeriod: "P1Y"
+value: C:coso->haiduong
+
+Node: E:coso->E6
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q72818
+observationPeriod: "P1Y"
+value: C:coso->haiphong
+
+Node: E:coso->E7
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36485
+observationPeriod: "P1Y"
+value: C:coso->hungyen
+
+Node: E:coso->E8
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36497
+observationPeriod: "P1Y"
+value: C:coso->thaibinh
+
+Node: E:coso->E9
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36413
+observationPeriod: "P1Y"
+value: C:coso->hanam
+
+Node: E:coso->E10
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33682
+observationPeriod: "P1Y"
+value: C:coso->namdinh
+
+Node: E:coso->E11
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33929
+observationPeriod: "P1Y"
+value: C:coso->ninhbinh
+
+Node: E:coso->E12
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36685
+observationPeriod: "P1Y"
+value: C:coso->hagiang
+
+Node: E:coso->E13
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36865
+observationPeriod: "P1Y"
+value: C:coso->caobang
+
+Node: E:coso->E14
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36404
+observationPeriod: "P1Y"
+value: C:coso->backan
+
+Node: E:coso->E15
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33389
+observationPeriod: "P1Y"
+value: C:coso->tuyenquang
+
+Node: E:coso->E16
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36446
+observationPeriod: "P1Y"
+value: C:coso->laocai
+
+Node: E:coso->E17
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q26019
+observationPeriod: "P1Y"
+value: C:coso->yenbai
+
+Node: E:coso->E18
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q26575
+observationPeriod: "P1Y"
+value: C:coso->thainguyen
+
+Node: E:coso->E19
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33383
+observationPeriod: "P1Y"
+value: C:coso->langson
+
+Node: E:coso->E20
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36367
+observationPeriod: "P1Y"
+value: C:coso->bacgiang
+
+Node: E:coso->E21
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36610
+observationPeriod: "P1Y"
+value: C:coso->phutho
+
+Node: E:coso->E22
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36955
+observationPeriod: "P1Y"
+value: C:coso->dienbien
+
+
+Node: E:coso->E23
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36409
+observationPeriod: "P1Y"
+value: C:coso->laichau
+
+
+Node: E:coso->E24
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33379
+observationPeriod: "P1Y"
+value: C:coso->sonla
+
+
+Node: E:coso->E25
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36015
+observationPeriod: "P1Y"
+value: C:coso->hoabinh
+
+
+Node: E:coso->E26
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36955
+observationPeriod: "P1Y"
+value: C:coso->thanhhoa
+
+Node: E:coso->E27
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36587
+observationPeriod: "P1Y"
+value: C:coso->nghean
+
+Node: E:coso->E28
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33351
+observationPeriod: "P1Y"
+value: C:coso->hatinh
+
+Node: E:coso->E29
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q23533
+observationPeriod: "P1Y"
+value: C:coso->quangbinh
+
+Node: E:coso->E30
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36579
+observationPeriod: "P1Y"
+value: C:coso->quangtri
+
+Node: E:coso->E31
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36399
+observationPeriod: "P1Y"
+value: C:coso->thuathienhue
+
+Node: E:coso->E32
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q25282
+observationPeriod: "P1Y"
+value: C:coso->danang
+
+Node: E:coso->E33
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33356
+observationPeriod: "P1Y"
+value: C:coso->quangnam
+
+Node: E:coso->E34
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33304
+observationPeriod: "P1Y"
+value: C:coso->quangngai
+
+Node: E:coso->E35
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36693
+observationPeriod: "P1Y"
+value: C:coso->binhdinh
+
+Node: E:coso->E36
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36725
+observationPeriod: "P1Y"
+value: C:coso->phuyen
+
+Node: E:coso->E37
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33369
+observationPeriod: "P1Y"
+value: C:coso->khanhhoa
+
+Node: E:coso->E38
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36903
+observationPeriod: "P1Y"
+value: C:coso->ninhthuan
+
+Node: E:coso->E39
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36869
+observationPeriod: "P1Y"
+value: C:coso->binhthuan
+
+Node: E:coso->E40
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36315
+observationPeriod: "P1Y"
+value: C:coso->kontum
+
+Node: E:coso->E41
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36662
+observationPeriod: "P1Y"
+value: C:coso->gialai
+
+Node: E:coso->E42
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36690
+observationPeriod: "P1Y"
+value: C:coso->daklak
+
+Node: E:coso->E43
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36723
+observationPeriod: "P1Y"
+value: C:coso->daknong
+
+Node: E:coso->E44
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36721
+observationPeriod: "P1Y"
+value: C:coso->lamdong
+
+Node: E:coso->E45
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36672
+observationPeriod: "P1Y"
+value: C:coso->binhphuoc
+
+Node: E:coso->E46
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q130391
+observationPeriod: "P1Y"
+value: C:coso->tayninh
+
+Node: E:coso->E47
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36866
+observationPeriod: "P1Y"
+value: C:coso->binhduong
+
+Node: E:coso->E48
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33271
+observationPeriod: "P1Y"
+value: C:coso->dongnai
+
+Node: E:coso->E49
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36874
+observationPeriod: "P1Y"
+value: C:coso->bariavungtau
+
+Node: E:coso->E50
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q1854
+observationPeriod: "P1Y"
+value: C:coso->tphochiminh
+
+Node: E:coso->E51
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q26573
+observationPeriod: "P1Y"
+value: C:coso->longan
+
+Node: E:coso->E52
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36666
+observationPeriod: "P1Y"
+value: C:coso->tiengiang
+
+Node: E:coso->E53
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33366
+observationPeriod: "P1Y"
+value: C:coso->bentre
+
+Node: E:coso->E54
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36615
+observationPeriod: "P1Y"
+value: C:coso->travinh
+
+Node: E:coso->E55
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q7333405
+observationPeriod: "P1Y"
+value: C:coso->vinhlong
+
+Node: E:coso->E56
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36676
+observationPeriod: "P1Y"
+value: C:coso->dongthap
+
+Node: E:coso->E57
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36592
+observationPeriod: "P1Y"
+value: C:coso->angiang
+
+Node: E:coso->E58
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36576
+observationPeriod: "P1Y"
+value: C:coso->kiengiang
+
+Node: E:coso->E59
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q216075
+observationPeriod: "P1Y"
+value: C:coso->cantho
+
+Node: E:coso->E60
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36320
+observationPeriod: "P1Y"
+value: C:coso->haugiang
+
+
+Node: E:coso->E61
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33272
+observationPeriod: "P1Y"
+value: C:coso->soctrang
+
+Node: E:coso->E62
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q36658
+observationPeriod: "P1Y"
+value: C:coso->baclieu
+
+Node: E:coso->E63
+typeOf: dcs:StatVarObservation
+variableMeasured: C:coso->var
+observationDate: C:coso->time
+observationAbout: dcid:wikidataId/Q33354
+observationPeriod: "P1Y"
+value: C:coso->camau
