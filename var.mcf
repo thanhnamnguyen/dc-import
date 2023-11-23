@@ -36,3 +36,67 @@ populationType: dcs:Thing
 measuredProperty: dcs:count
 statType: dcs:measuredValue
 memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:TotalPopulation
+name: "Tổng dân số"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:MalePopulation
+name: "Tổng số nam giới"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:FemalePopulation
+name: "Tổng số nữ giới"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:UrbanPopulation
+name: "Tổng dân số tại thành thị"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:RuralPopulation
+name: "Tổng dân số tại nông thôn"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:Area
+name: "Diện tích"
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:PopulationDensity
+name: "Mật độ dân số "
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi
+
+Node: dcid:PopulationDensity
+name: "Mật độ dân số "
+typeOf: dcs:StatisticalVariable
+populationType: dcs:Thing
+measuredProperty: dcs:count
+statType: dcs:measuredValue
+memberOf: dcid:dc/g/Xa_hoi

@@ -1,0 +1,31 @@
+Node: E:1_4->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:totalLevel2
+observationDate: 2016
+observationAbout: C:1_4->locations
+observationPeriod: "P1Y"
+value: C:1_4->totalLevel2
+
+Node: E:1_4->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:totalLevel3
+observationDate: 2016
+observationAbout: C:1_4->locations
+observationPeriod: "P1Y"
+value: C:1_4->totalLevel3
+
+Node: E:1_4->E2
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:totalUrbanLevel2
+observationDate: 2016
+observationAbout: C:1_4->locations
+observationPeriod: "P1Y"
+value: C:1_4->totalUrbanLevel2
+
+Node: E:1_4->E3
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:totalUrbanLevel3
+observationDate: 2016
+observationAbout: C:1_4->locations
+observationPeriod: "P1Y"
+value: C:1_4->totalUrbanLevel3

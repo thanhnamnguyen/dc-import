@@ -1,0 +1,15 @@
+Node: E:1_13->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:Area
+observationDate: 2018
+observationAbout: C:1_13->locations
+observationPeriod: "P1Y"
+value: C:1_13->Area
+
+Node: E:1_13->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:PopulationDensity
+observationDate: 2018
+observationAbout: C:1_13->locations
+observationPeriod: "P1Y"
+value: C:1_13->PopulationDensity

@@ -55,21 +55,23 @@ func main() {
 		placeMap[v] = observation[i]
 	}
 
-	f, err := excelize.OpenFile("sample.xlsx")
+	// change this
+	f, err := excelize.OpenFile("2019-2020.xlsx")
 	if err != nil {
 		return
 	}
 	defer f.Close()
 
 	// change this
-	rows, err := f.GetRows("1.6")
+	rows, err := f.GetRows("1.13")
 	if err != nil {
 		fmt.Println("Error opening sheet:", err)
 		return
 	}
+	fmt.Println(rows)
 	count := 0
 	// change this
-	data := [][]string{{"locations", "totalLevel2", "totalUrbanLevel2", "totalLevel3", "totalUrbanLevel3"}}
+	data := [][]string{{"locations", "Area", "", "PopulationDensity"}}
 	// change this
 	locationIndex := 1
 	for _, row := range rows {
@@ -79,7 +81,7 @@ func main() {
 				count++
 				rw := []string{value}
 				for i := locationIndex + 1; i < len(row); i++ {
-					rw = append(rw, row[i])
+					rw = append(rw, removeComma(row[i]))
 				}
 				data = append(data, rw)
 			} else {
@@ -148,6 +150,17 @@ func removeNonAlphaNumeric(s string) string {
 				fmt.Println("err in", s)
 			}
 
+			sb.WriteRune(r)
+		}
+	}
+	return sb.String()
+}
+
+func removeComma(s string) string {
+	var sb strings.Builder
+
+	for _, r := range s {
+		if r != ',' {
 			sb.WriteRune(r)
 		}
 	}

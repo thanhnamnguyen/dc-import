@@ -1,0 +1,39 @@
+Node: E:1_10->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:TotalPopulation
+observationDate: 2017
+observationAbout: C:1_10->locations
+observationPeriod: "P1Y"
+value: C:1_10->TotalPopulation
+
+Node: E:1_10->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:MalePopulation
+observationDate: 2017
+observationAbout: C:1_10->locations
+observationPeriod: "P1Y"
+value: C:1_10->MalePopulation
+
+Node: E:1_10->E2
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:FemalePopulation
+observationDate: 2017
+observationAbout: C:1_10->locations
+observationPeriod: "P1Y"
+value: C:1_10->FemalePopulation
+
+Node: E:1_10->E3
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:UrbanPopulation
+observationDate: 2017
+observationAbout: C:1_10->locations
+observationPeriod: "P1Y"
+value: C:1_10->UrbanPopulation
+
+Node: E:1_10->E4
+typeOf: dcs:StatVarObservation
+variableMeasured: dcid:RuralPopulation
+observationDate: 2017
+observationAbout: C:1_10->locations
+observationPeriod: "P1Y"
+value: C:1_10->RuralPopulation

@@ -1,0 +1,442 @@
+{
+  "levelSummary": {
+    "LEVEL_INFO": {
+      "counters": {
+        "NumRowSuccesses": "62",
+        "NumPVSuccesses": "1984",
+        "Existence_NumChecks": "1764",
+        "NumNodeSuccesses": "248",
+        "Existence_NumDcCalls": "1"
+      }
+    },
+    "LEVEL_WARNING": {
+      "counters": {
+        "Existence_MissingReference_variableMeasured": "252",
+        "StatsCheck_Inconsistent_Values": "4"
+      }
+    },
+    "LEVEL_ERROR": {
+      "counters": {
+        "Sanity_InconsistentSvObsValues": "4"
+      }
+    }
+  },
+  "entries": [{
+    "level": "LEVEL_ERROR",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "27"
+    },
+    "userMessage": "Found nodes with different values for the same StatVarObservation :: observationAbout: 'wikidataId/Q36955', variableMeasured: 'totalUrbanLevel3', observationDate: '2020', value1: 14.0, value2: 78.0",
+    "counterKey": "Sanity_InconsistentSvObsValues"
+  }, {
+    "level": "LEVEL_ERROR",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "27"
+    },
+    "userMessage": "Found nodes with different values for the same StatVarObservation :: observationAbout: 'wikidataId/Q36955', variableMeasured: 'totalLevel3', observationDate: '2020', value1: 129.0, value2: 559.0",
+    "counterKey": "Sanity_InconsistentSvObsValues"
+  }, {
+    "level": "LEVEL_ERROR",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "27"
+    },
+    "userMessage": "Found nodes with different values for the same StatVarObservation :: observationAbout: 'wikidataId/Q36955', variableMeasured: 'totalUrbanLevel2', observationDate: '2020', value1: 2.0, value2: 4.0",
+    "counterKey": "Sanity_InconsistentSvObsValues"
+  }, {
+    "level": "LEVEL_ERROR",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "27"
+    },
+    "userMessage": "Found nodes with different values for the same StatVarObservation :: observationAbout: 'wikidataId/Q36955', variableMeasured: 'totalLevel2', observationDate: '2020', value1: 10.0, value2: 27.0",
+    "counterKey": "Sanity_InconsistentSvObsValues"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "2"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "3"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "4"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "5"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "6"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "7"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "8"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "9"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "10"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "11"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "12"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "13"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "14"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "15"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "16"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "17"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "18"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "19"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "20"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "21"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "22"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "23"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "24"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "25"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "26"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "27"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "28"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "29"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "30"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "1_6.csv",
+      "lineNumber": "31"
+    },
+    "userMessage": "Failed reference existence check :: value-ref: 'totalLevel2', property: 'variableMeasured', node: 'E:1_6->E0'",
+    "counterKey": "Existence_MissingReference_variableMeasured"
+  }],
+  "statsCheckSummary": [{
+    "placeDcid": "wikidataId/Q36955",
+    "statVarDcid": "totalUrbanLevel2",
+    "measurementMethod": "",
+    "observationPeriod": "P1Y",
+    "scalingFactor": "",
+    "unit": "",
+    "validationCounters": [{
+      "counterKey": "StatsCheck_Inconsistent_Values",
+      "problemPoints": [{
+        "date": "2020",
+        "values": [{
+          "value": {
+            "type": "NUMBER",
+            "value": "2",
+            "column": "totalUrbanLevel2"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "23"
+          }]
+        }, {
+          "value": {
+            "type": "NUMBER",
+            "value": "4",
+            "column": "totalUrbanLevel2"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "27"
+          }]
+        }]
+      }]
+    }]
+  }, {
+    "placeDcid": "wikidataId/Q36955",
+    "statVarDcid": "totalUrbanLevel3",
+    "measurementMethod": "",
+    "observationPeriod": "P1Y",
+    "scalingFactor": "",
+    "unit": "",
+    "validationCounters": [{
+      "counterKey": "StatsCheck_Inconsistent_Values",
+      "problemPoints": [{
+        "date": "2020",
+        "values": [{
+          "value": {
+            "type": "NUMBER",
+            "value": "14",
+            "column": "totalUrbanLevel3"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "23"
+          }]
+        }, {
+          "value": {
+            "type": "NUMBER",
+            "value": "78",
+            "column": "totalUrbanLevel3"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "27"
+          }]
+        }]
+      }]
+    }]
+  }, {
+    "placeDcid": "wikidataId/Q36955",
+    "statVarDcid": "totalLevel3",
+    "measurementMethod": "",
+    "observationPeriod": "P1Y",
+    "scalingFactor": "",
+    "unit": "",
+    "validationCounters": [{
+      "counterKey": "StatsCheck_Inconsistent_Values",
+      "problemPoints": [{
+        "date": "2020",
+        "values": [{
+          "value": {
+            "type": "NUMBER",
+            "value": "129",
+            "column": "totalLevel3"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "23"
+          }]
+        }, {
+          "value": {
+            "type": "NUMBER",
+            "value": "559",
+            "column": "totalLevel3"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "27"
+          }]
+        }]
+      }]
+    }]
+  }, {
+    "placeDcid": "wikidataId/Q36955",
+    "statVarDcid": "totalLevel2",
+    "measurementMethod": "",
+    "observationPeriod": "P1Y",
+    "scalingFactor": "",
+    "unit": "",
+    "validationCounters": [{
+      "counterKey": "StatsCheck_Inconsistent_Values",
+      "problemPoints": [{
+        "date": "2020",
+        "values": [{
+          "value": {
+            "type": "NUMBER",
+            "value": "10",
+            "column": "totalLevel2"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "23"
+          }]
+        }, {
+          "value": {
+            "type": "NUMBER",
+            "value": "27",
+            "column": "totalLevel2"
+          },
+          "locations": [{
+            "file": "1_6.csv",
+            "lineNumber": "27"
+          }]
+        }]
+      }]
+    }]
+  }],
+  "commandArgs": {
+    "existenceChecks": true,
+    "resolution": "RESOLUTION_MODE_LOCAL",
+    "numThreads": 1,
+    "statChecks": true,
+    "observationAbout": false,
+    "allowNanSvobs": false
+  }
+}

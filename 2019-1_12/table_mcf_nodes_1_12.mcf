@@ -1,0 +1,1260 @@
+Node: 1_12/E1/224d3958-512e-0872-219e-96f3b8a68239
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:PopulationDensity
+value: 2410
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=PopulationDensityobservationDate=2019value=2410observationPeriod=P1Y"
+dcid: "dc/o/88kl6h5rvghm6"
+
+Node: 1_12/E0/224d3958-512e-0872-219e-96f3b8a68239
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:Area
+value: 3358.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=AreaobservationDate=2019value=3358.6observationPeriod=P1Y"
+dcid: "dc/o/zrf34q6v3xfl5"
+
+Node: 1_12/E1/e5f093be-eb3b-c49b-4b10-2ad1734eac27
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:PopulationDensity
+value: 934
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=PopulationDensityobservationDate=2019value=934observationPeriod=P1Y"
+dcid: "dc/o/sxvjdw5js9wd1"
+
+Node: 1_12/E0/e5f093be-eb3b-c49b-4b10-2ad1734eac27
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:Area
+value: 1235.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=AreaobservationDate=2019value=1235.9observationPeriod=P1Y"
+dcid: "dc/o/6ce4x4vs9bre3"
+
+Node: 1_12/E1/fbe6e4b0-1dd8-8e61-960c-aad087719235
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:PopulationDensity
+value: 1676
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=PopulationDensityobservationDate=2019value=1676observationPeriod=P1Y"
+dcid: "dc/o/3pnn4sxhhv9rf"
+
+Node: 1_12/E0/fbe6e4b0-1dd8-8e61-960c-aad087719235
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:Area
+value: 822.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=AreaobservationDate=2019value=822.7observationPeriod=P1Y"
+dcid: "dc/o/ybg8k3gsfyx2"
+
+Node: 1_12/E1/c9f0f133-9d48-219b-aee6-c71a4aa5204f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:PopulationDensity
+value: 214
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=PopulationDensityobservationDate=2019value=214observationPeriod=P1Y"
+dcid: "dc/o/sf8t38wcvk404"
+
+Node: 1_12/E0/c9f0f133-9d48-219b-aee6-c71a4aa5204f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:Area
+value: 6178.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=AreaobservationDate=2019value=6178.2observationPeriod=P1Y"
+dcid: "dc/o/pb3p2lmxwsdwg"
+
+Node: 1_12/E1/4c27136f-a885-67aa-219c-71528e563e1b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:PopulationDensity
+value: 1137
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=PopulationDensityobservationDate=2019value=1137observationPeriod=P1Y"
+dcid: "dc/o/spwdj7m7l4r82"
+
+Node: 1_12/E0/4c27136f-a885-67aa-219c-71528e563e1b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:Area
+value: 1668.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=AreaobservationDate=2019value=1668.2observationPeriod=P1Y"
+dcid: "dc/o/ltve0crhm6kd5"
+
+Node: 1_12/E1/1f35a483-8285-7d86-023d-b830451619af
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:PopulationDensity
+value: 1302
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=PopulationDensityobservationDate=2019value=1302observationPeriod=P1Y"
+dcid: "dc/o/lb0gm5f0t4411"
+
+Node: 1_12/E0/1f35a483-8285-7d86-023d-b830451619af
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:Area
+value: 1561.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=AreaobservationDate=2019value=1561.8observationPeriod=P1Y"
+dcid: "dc/o/l6lt8dn2581h8"
+
+Node: 1_12/E1/354dbd36-b2bb-e6c2-4620-d2fe0d400e50
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:PopulationDensity
+value: 1350
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=PopulationDensityobservationDate=2019value=1350observationPeriod=P1Y"
+dcid: "dc/o/29xy98lrd82y8"
+
+Node: 1_12/E0/354dbd36-b2bb-e6c2-4620-d2fe0d400e50
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:Area
+value: 930.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=AreaobservationDate=2019value=930.2observationPeriod=P1Y"
+dcid: "dc/o/9mbl47hpj84rf"
+
+Node: 1_12/E1/4a0a5f92-80a5-b163-13fc-f06906c57511
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:PopulationDensity
+value: 1174
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=PopulationDensityobservationDate=2019value=1174observationPeriod=P1Y"
+dcid: "dc/o/smmn5pkg5pw1f"
+
+Node: 1_12/E0/4a0a5f92-80a5-b163-13fc-f06906c57511
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:Area
+value: 1586.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=AreaobservationDate=2019value=1586.4observationPeriod=P1Y"
+dcid: "dc/o/31rwn5tle4vhh"
+
+Node: 1_12/E1/86ba52ab-178c-dc15-bbdb-c8d9762485b8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:PopulationDensity
+value: 991
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=PopulationDensityobservationDate=2019value=991observationPeriod=P1Y"
+dcid: "dc/o/g15c0fwn4mzb5"
+
+Node: 1_12/E0/86ba52ab-178c-dc15-bbdb-c8d9762485b8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:Area
+value: 861.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=AreaobservationDate=2019value=861.9observationPeriod=P1Y"
+dcid: "dc/o/bjhvs33yc7nt4"
+
+Node: 1_12/E1/85846b40-670a-8ef8-4496-9dd1e7a0676b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:PopulationDensity
+value: 1067
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=PopulationDensityobservationDate=2019value=1067observationPeriod=P1Y"
+dcid: "dc/o/6p9q93lx4xpj7"
+
+Node: 1_12/E0/85846b40-670a-8ef8-4496-9dd1e7a0676b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:Area
+value: 1668.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=AreaobservationDate=2019value=1668.6observationPeriod=P1Y"
+dcid: "dc/o/jswttyqs0hpfg"
+
+Node: 1_12/E1/b8d8492a-1e67-cd4d-c40b-6e6c41efdbc2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:PopulationDensity
+value: 710
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=PopulationDensityobservationDate=2019value=710observationPeriod=P1Y"
+dcid: "dc/o/lxt2gzjz60hxb"
+
+Node: 1_12/E0/b8d8492a-1e67-cd4d-c40b-6e6c41efdbc2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:Area
+value: 1386.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=AreaobservationDate=2019value=1386.8observationPeriod=P1Y"
+dcid: "dc/o/0ehrx3wx89hfb"
+
+Node: 1_12/E1/ec871122-d6d9-dd73-6baf-7309473c2435
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:PopulationDensity
+value: 108
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=PopulationDensityobservationDate=2019value=108observationPeriod=P1Y"
+dcid: "dc/o/x7j05nchhmxj5"
+
+Node: 1_12/E0/ec871122-d6d9-dd73-6baf-7309473c2435
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:Area
+value: 7929.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=AreaobservationDate=2019value=7929.5observationPeriod=P1Y"
+dcid: "dc/o/wdv1mzb5mb5r3"
+
+Node: 1_12/E1/863e86e0-9757-44d7-06df-a8798a945fd1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:PopulationDensity
+value: 79
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=PopulationDensityobservationDate=2019value=79observationPeriod=P1Y"
+dcid: "dc/o/bd8m609vmfxf8"
+
+Node: 1_12/E0/863e86e0-9757-44d7-06df-a8798a945fd1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:Area
+value: 6700.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=AreaobservationDate=2019value=6700.3observationPeriod=P1Y"
+dcid: "dc/o/d1zll9wmlnbf6"
+
+Node: 1_12/E1/52f0293c-b1c8-2e30-5c50-4a3326e8053b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:PopulationDensity
+value: 65
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=PopulationDensityobservationDate=2019value=65observationPeriod=P1Y"
+dcid: "dc/o/vjctfl2stjrf3"
+
+Node: 1_12/E0/52f0293c-b1c8-2e30-5c50-4a3326e8053b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:Area
+value: 4860.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=AreaobservationDate=2019value=4860.0observationPeriod=P1Y"
+dcid: "dc/o/nc8sqe24whc1g"
+
+Node: 1_12/E1/13caa137-011b-c116-2218-733bbcdb53c9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:PopulationDensity
+value: 134
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=PopulationDensityobservationDate=2019value=134observationPeriod=P1Y"
+dcid: "dc/o/y90x5jr2b9sf3"
+
+Node: 1_12/E0/13caa137-011b-c116-2218-733bbcdb53c9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:Area
+value: 5867.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=AreaobservationDate=2019value=5867.9observationPeriod=P1Y"
+dcid: "dc/o/1wpjbl950gzq3"
+
+Node: 1_12/E1/620aa9d4-cec9-51c7-8866-5561b2087de1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:PopulationDensity
+value: 115
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=PopulationDensityobservationDate=2019value=115observationPeriod=P1Y"
+dcid: "dc/o/nl2wdykcgvv03"
+
+Node: 1_12/E0/620aa9d4-cec9-51c7-8866-5561b2087de1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:Area
+value: 6364.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=AreaobservationDate=2019value=6364.0observationPeriod=P1Y"
+dcid: "dc/o/qtppz1ryy3b46"
+
+Node: 1_12/E1/a8709ea2-7010-86ef-0f52-84aec683b10f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:PopulationDensity
+value: 119
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=PopulationDensityobservationDate=2019value=119observationPeriod=P1Y"
+dcid: "dc/o/t02bj96fsm1z4"
+
+Node: 1_12/E0/a8709ea2-7010-86ef-0f52-84aec683b10f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:Area
+value: 6887.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=AreaobservationDate=2019value=6887.5observationPeriod=P1Y"
+dcid: "dc/o/tmkqkkxtfbcq"
+
+Node: 1_12/E1/139baa8f-894e-9e22-d360-dd285d8528df
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:PopulationDensity
+value: 366
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=PopulationDensityobservationDate=2019value=366observationPeriod=P1Y"
+dcid: "dc/o/b4mjpxf12r52d"
+
+Node: 1_12/E0/139baa8f-894e-9e22-d360-dd285d8528df
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:Area
+value: 3526.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=AreaobservationDate=2019value=3526.6observationPeriod=P1Y"
+dcid: "dc/o/w46n2chmsfnxd"
+
+Node: 1_12/E1/0b120e6b-5e45-28d6-65b7-aa50ab93459d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:PopulationDensity
+value: 94
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=PopulationDensityobservationDate=2019value=94observationPeriod=P1Y"
+dcid: "dc/o/28whdcrjegft"
+
+Node: 1_12/E0/0b120e6b-5e45-28d6-65b7-aa50ab93459d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:Area
+value: 8310.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=AreaobservationDate=2019value=8310.1observationPeriod=P1Y"
+dcid: "dc/o/j0xsdmt0sbg98"
+
+Node: 1_12/E1/a0643d8f-2b66-128f-ae57-d3c8492a8dd6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:PopulationDensity
+value: 465
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=PopulationDensityobservationDate=2019value=465observationPeriod=P1Y"
+dcid: "dc/o/5nns85142nem"
+
+Node: 1_12/E0/a0643d8f-2b66-128f-ae57-d3c8492a8dd6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:Area
+value: 3895.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=AreaobservationDate=2019value=3895.6observationPeriod=P1Y"
+dcid: "dc/o/hfkn6mfkyqcwf"
+
+Node: 1_12/E1/47889800-8ba4-dd98-ea86-4318c760b80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:PopulationDensity
+value: 415
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=PopulationDensityobservationDate=2019value=415observationPeriod=P1Y"
+dcid: "dc/o/4dqcxjnf6bjfd"
+
+Node: 1_12/E0/47889800-8ba4-dd98-ea86-4318c760b80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:Area
+value: 3534.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=AreaobservationDate=2019value=3534.6observationPeriod=P1Y"
+dcid: "dc/o/hxnj69gj8px0d"
+
+Node: 1_12/E1/38b25419-df70-4089-54d8-c86fdcb02885
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:PopulationDensity
+value: 63
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=PopulationDensityobservationDate=2019value=63observationPeriod=P1Y"
+dcid: "dc/o/gchr94k9nzm8"
+
+Node: 1_12/E0/38b25419-df70-4089-54d8-c86fdcb02885
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:Area
+value: 9541.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=AreaobservationDate=2019value=9541.3observationPeriod=P1Y"
+dcid: "dc/o/re9f8ks1kwdb7"
+
+Node: 1_12/E1/eaf57fd8-ba47-8717-3014-936306e9dd79
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:PopulationDensity
+value: 51
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=PopulationDensityobservationDate=2019value=51observationPeriod=P1Y"
+dcid: "dc/o/yp43c01ctbp3"
+
+Node: 1_12/E0/eaf57fd8-ba47-8717-3014-936306e9dd79
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:Area
+value: 9068.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=AreaobservationDate=2019value=9068.8observationPeriod=P1Y"
+dcid: "dc/o/zn6fce65cqyg9"
+
+Node: 1_12/E1/83b912a5-16f5-77af-c53d-28360abfed08
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:PopulationDensity
+value: 89
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=PopulationDensityobservationDate=2019value=89observationPeriod=P1Y"
+dcid: "dc/o/58j72k7sxnep1"
+
+Node: 1_12/E0/83b912a5-16f5-77af-c53d-28360abfed08
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:Area
+value: 14123.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=AreaobservationDate=2019value=14123.5observationPeriod=P1Y"
+dcid: "dc/o/m2d7rx4d7fzl9"
+
+Node: 1_12/E1/9d170e66-3ba9-eccd-4320-6c7205dcc7fb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:PopulationDensity
+value: 186
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=PopulationDensityobservationDate=2019value=186observationPeriod=P1Y"
+dcid: "dc/o/ptbnv6g0p9dvf"
+
+Node: 1_12/E0/9d170e66-3ba9-eccd-4320-6c7205dcc7fb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:Area
+value: 4590.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=AreaobservationDate=2019value=4590.6observationPeriod=P1Y"
+dcid: "dc/o/jm6xezj63y152"
+
+Node: 1_12/E1/0225a240-bd11-a762-a8cc-c64a6698c449
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:PopulationDensity
+value: 328
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=PopulationDensityobservationDate=2019value=328observationPeriod=P1Y"
+dcid: "dc/o/yx770959rbqx7"
+
+Node: 1_12/E0/0225a240-bd11-a762-a8cc-c64a6698c449
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:Area
+value: 11114.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=AreaobservationDate=2019value=11114.6observationPeriod=P1Y"
+dcid: "dc/o/g4rfb8wfhtmg9"
+
+Node: 1_12/E1/d7ea7d0b-f146-1719-cf57-04f6a9a6c464
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:PopulationDensity
+value: 202
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=PopulationDensityobservationDate=2019value=202observationPeriod=P1Y"
+dcid: "dc/o/hfzb3z1j8kfmb"
+
+Node: 1_12/E0/d7ea7d0b-f146-1719-cf57-04f6a9a6c464
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:Area
+value: 16481.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=AreaobservationDate=2019value=16481.4observationPeriod=P1Y"
+dcid: "dc/o/v07d0cwze0171"
+
+Node: 1_12/E1/a77ca6d5-f687-1635-8115-3f68b9fae356
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:PopulationDensity
+value: 215
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=PopulationDensityobservationDate=2019value=215observationPeriod=P1Y"
+dcid: "dc/o/ksnz612jjs2l9"
+
+Node: 1_12/E0/a77ca6d5-f687-1635-8115-3f68b9fae356
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:Area
+value: 5990.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=AreaobservationDate=2019value=5990.7observationPeriod=P1Y"
+dcid: "dc/o/0gkm5zrwncs83"
+
+Node: 1_12/E1/4b5a7e85-0d08-1617-68b8-4a0e96a51ff4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:PopulationDensity
+value: 112
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=PopulationDensityobservationDate=2019value=112observationPeriod=P1Y"
+dcid: "dc/o/6y9ytgp6wx2mg"
+
+Node: 1_12/E0/4b5a7e85-0d08-1617-68b8-4a0e96a51ff4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:Area
+value: 8000.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=AreaobservationDate=2019value=8000.0observationPeriod=P1Y"
+dcid: "dc/o/n70hpnjmrb091"
+
+Node: 1_12/E1/44a8f8ed-71c1-71aa-1cb9-0cb7b46e38b2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:PopulationDensity
+value: 137
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=PopulationDensityobservationDate=2019value=137observationPeriod=P1Y"
+dcid: "dc/o/7thdhr09mnjbb"
+
+Node: 1_12/E0/44a8f8ed-71c1-71aa-1cb9-0cb7b46e38b2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:Area
+value: 4621.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=AreaobservationDate=2019value=4621.7observationPeriod=P1Y"
+dcid: "dc/o/063mq6r62evy2"
+
+Node: 1_12/E1/9bf5365a-992a-5dd8-7496-272fb2c98eaa
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:PopulationDensity
+value: 230
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=PopulationDensityobservationDate=2019value=230observationPeriod=P1Y"
+dcid: "dc/o/yrmkbwtwp03l4"
+
+Node: 1_12/E0/9bf5365a-992a-5dd8-7496-272fb2c98eaa
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:Area
+value: 4902.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=AreaobservationDate=2019value=4902.4observationPeriod=P1Y"
+dcid: "dc/o/xw7wc96ews6fg"
+
+Node: 1_12/E1/19b13265-94d8-e872-43a4-d7d7654f7996
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:PopulationDensity
+value: 888
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=PopulationDensityobservationDate=2019value=888observationPeriod=P1Y"
+dcid: "dc/o/pbxy6h06mhgm"
+
+Node: 1_12/E0/19b13265-94d8-e872-43a4-d7d7654f7996
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:Area
+value: 1284.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=AreaobservationDate=2019value=1284.9observationPeriod=P1Y"
+dcid: "dc/o/rwxnvmgzyz3g7"
+
+Node: 1_12/E1/ffe1c785-a3f3-8f52-8b62-0960edf316d6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:PopulationDensity
+value: 142
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=PopulationDensityobservationDate=2019value=142observationPeriod=P1Y"
+dcid: "dc/o/38xhjn5elg89b"
+
+Node: 1_12/E0/ffe1c785-a3f3-8f52-8b62-0960edf316d6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:Area
+value: 10574.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=AreaobservationDate=2019value=10574.7observationPeriod=P1Y"
+dcid: "dc/o/yvnwgvyy9j621"
+
+Node: 1_12/E1/442dce98-4115-4745-aec7-ec465c5942d0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:PopulationDensity
+value: 239
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=PopulationDensityobservationDate=2019value=239observationPeriod=P1Y"
+dcid: "dc/o/hs4bwe4zxpskg"
+
+Node: 1_12/E0/442dce98-4115-4745-aec7-ec465c5942d0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:Area
+value: 5155.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=AreaobservationDate=2019value=5155.8observationPeriod=P1Y"
+dcid: "dc/o/c4z2jn2t3rqkf"
+
+Node: 1_12/E1/881b62e5-86f9-e3d8-ea13-a492817a65dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:PopulationDensity
+value: 245
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=PopulationDensityobservationDate=2019value=245observationPeriod=P1Y"
+dcid: "dc/o/q8h6j8l0f4c88"
+
+Node: 1_12/E0/881b62e5-86f9-e3d8-ea13-a492817a65dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:Area
+value: 6066.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=AreaobservationDate=2019value=6066.2observationPeriod=P1Y"
+dcid: "dc/o/e9t40ybb20sq5"
+
+Node: 1_12/E1/c8dfb7b7-d9f0-a76f-3f49-6077bda018e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:PopulationDensity
+value: 174
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=PopulationDensityobservationDate=2019value=174observationPeriod=P1Y"
+dcid: "dc/o/r5fwb4dl1n2qb"
+
+Node: 1_12/E0/c8dfb7b7-d9f0-a76f-3f49-6077bda018e4
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:Area
+value: 5023.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=AreaobservationDate=2019value=5023.4observationPeriod=P1Y"
+dcid: "dc/o/mgj4gd57g2952"
+
+Node: 1_12/E1/37c9d8f8-3761-4576-08cb-780682cf2814
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:PopulationDensity
+value: 240
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=PopulationDensityobservationDate=2019value=240observationPeriod=P1Y"
+dcid: "dc/o/rm0xbfdg0g625"
+
+Node: 1_12/E0/37c9d8f8-3761-4576-08cb-780682cf2814
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:Area
+value: 5137.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=AreaobservationDate=2019value=5137.8observationPeriod=P1Y"
+dcid: "dc/o/j1bdlf7lyy2ec"
+
+Node: 1_12/E1/d6aca983-e3bd-88e9-b0a7-1484e029ed78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:PopulationDensity
+value: 176
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=PopulationDensityobservationDate=2019value=176observationPeriod=P1Y"
+dcid: "dc/o/wjpbfcfbpc781"
+
+Node: 1_12/E0/d6aca983-e3bd-88e9-b0a7-1484e029ed78
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:Area
+value: 3355.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=AreaobservationDate=2019value=3355.3observationPeriod=P1Y"
+dcid: "dc/o/09edbb331gh63"
+
+Node: 1_12/E1/cd4be623-a9fd-e5cb-ca75-a3c13e2470b5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:PopulationDensity
+value: 155
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=PopulationDensityobservationDate=2019value=155observationPeriod=P1Y"
+dcid: "dc/o/3805epwgsem1f"
+
+Node: 1_12/E0/cd4be623-a9fd-e5cb-ca75-a3c13e2470b5
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:Area
+value: 7943.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=AreaobservationDate=2019value=7943.9observationPeriod=P1Y"
+dcid: "dc/o/8ds2ghc2lk478"
+
+Node: 1_12/E1/08b7b772-d520-0555-4f7c-f06e7f681596
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:PopulationDensity
+value: 56
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=PopulationDensityobservationDate=2019value=56observationPeriod=P1Y"
+dcid: "dc/o/lhspmh4yq6hqc"
+
+Node: 1_12/E0/08b7b772-d520-0555-4f7c-f06e7f681596
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:Area
+value: 9674.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=AreaobservationDate=2019value=9674.2observationPeriod=P1Y"
+dcid: "dc/o/fvnqr3swr0ly4"
+
+Node: 1_12/E1/57ad394d-c1a3-20dd-8ecb-9f2b9fb96286
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:PopulationDensity
+value: 98
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=PopulationDensityobservationDate=2019value=98observationPeriod=P1Y"
+dcid: "dc/o/st5mx45klpgd7"
+
+Node: 1_12/E0/57ad394d-c1a3-20dd-8ecb-9f2b9fb96286
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:Area
+value: 15511.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=AreaobservationDate=2019value=15511.0observationPeriod=P1Y"
+dcid: "dc/o/ywsxzbrkvge95"
+
+Node: 1_12/E1/205aa362-9fff-9076-fccf-f1e17cbddfec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:PopulationDensity
+value: 144
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=PopulationDensityobservationDate=2019value=144observationPeriod=P1Y"
+dcid: "dc/o/j3h8qxmp8hrzg"
+
+Node: 1_12/E0/205aa362-9fff-9076-fccf-f1e17cbddfec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:Area
+value: 13030.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=AreaobservationDate=2019value=13030.5observationPeriod=P1Y"
+dcid: "dc/o/77r9qdy11pnc9"
+
+Node: 1_12/E1/98a9f180-a3d9-0586-c099-8a747fc3448c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:PopulationDensity
+value: 96
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=PopulationDensityobservationDate=2019value=96observationPeriod=P1Y"
+dcid: "dc/o/k4gtwksgczt"
+
+Node: 1_12/E0/98a9f180-a3d9-0586-c099-8a747fc3448c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:Area
+value: 6509.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=AreaobservationDate=2019value=6509.3observationPeriod=P1Y"
+dcid: "dc/o/78sdf6ssscjvd"
+
+Node: 1_12/E1/74ed87b3-3b1e-f555-8140-e4971ca4a53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:PopulationDensity
+value: 133
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=PopulationDensityobservationDate=2019value=133observationPeriod=P1Y"
+dcid: "dc/o/0495cmevqqz12"
+
+Node: 1_12/E0/74ed87b3-3b1e-f555-8140-e4971ca4a53e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:Area
+value: 9783.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=AreaobservationDate=2019value=9783.3observationPeriod=P1Y"
+dcid: "dc/o/x3ckytdhe24w5"
+
+Node: 1_12/E1/db06c725-d91f-fda6-cb71-5d9770210fed
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:PopulationDensity
+value: 145
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=PopulationDensityobservationDate=2019value=145observationPeriod=P1Y"
+dcid: "dc/o/czf7y341hw5w8"
+
+Node: 1_12/E0/db06c725-d91f-fda6-cb71-5d9770210fed
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:Area
+value: 6876.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=AreaobservationDate=2019value=6876.8observationPeriod=P1Y"
+dcid: "dc/o/m3v37khwb3z34"
+
+Node: 1_12/E1/06ecfdbf-46a1-f693-12ef-8949028d2d33
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:PopulationDensity
+value: 290
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=PopulationDensityobservationDate=2019value=290observationPeriod=P1Y"
+dcid: "dc/o/hmqrqf8jv3y7f"
+
+Node: 1_12/E0/06ecfdbf-46a1-f693-12ef-8949028d2d33
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:Area
+value: 4041.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=AreaobservationDate=2019value=4041.3observationPeriod=P1Y"
+dcid: "dc/o/l2kwxcqpgwcs1"
+
+Node: 1_12/E1/4c3c3080-e14d-0b26-bc0b-d92827f3e89a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:PopulationDensity
+value: 912
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=PopulationDensityobservationDate=2019value=912observationPeriod=P1Y"
+dcid: "dc/o/l3zxkgwx0exq6"
+
+Node: 1_12/E0/4c3c3080-e14d-0b26-bc0b-d92827f3e89a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:Area
+value: 2694.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=AreaobservationDate=2019value=2694.6observationPeriod=P1Y"
+dcid: "dc/o/ejs31gs5gt8mh"
+
+Node: 1_12/E1/d35ab283-c774-fa3c-cb12-08ff5cb34d73
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:PopulationDensity
+value: 531
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=PopulationDensityobservationDate=2019value=531observationPeriod=P1Y"
+dcid: "dc/o/1j9ferqbf5943"
+
+Node: 1_12/E0/d35ab283-c774-fa3c-cb12-08ff5cb34d73
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:Area
+value: 5863.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=AreaobservationDate=2019value=5863.6observationPeriod=P1Y"
+dcid: "dc/o/1y90rfpzvj8md"
+
+Node: 1_12/E1/06b3bddd-bd02-a3fd-effd-a42737fdcf16
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:PopulationDensity
+value: 582
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=PopulationDensityobservationDate=2019value=582observationPeriod=P1Y"
+dcid: "dc/o/2rbe2nm5w4dc9"
+
+Node: 1_12/E0/06b3bddd-bd02-a3fd-effd-a42737fdcf16
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:Area
+value: 1981.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=AreaobservationDate=2019value=1981.0observationPeriod=P1Y"
+dcid: "dc/o/ge6snz8hh1l0d"
+
+Node: 1_12/E1/47f4bd1c-1f31-4e88-7045-0b8cc81a4a39
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:PopulationDensity
+value: 4385
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=PopulationDensityobservationDate=2019value=4385observationPeriod=P1Y"
+dcid: "dc/o/6ltr39h2sctyh"
+
+Node: 1_12/E0/47f4bd1c-1f31-4e88-7045-0b8cc81a4a39
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:Area
+value: 2061.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=AreaobservationDate=2019value=2061.4observationPeriod=P1Y"
+dcid: "dc/o/8fxsznr7xj0y4"
+
+Node: 1_12/E1/1b80b3ad-74a5-edb8-b229-0b79a08a2b56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:PopulationDensity
+value: 377
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=PopulationDensityobservationDate=2019value=377observationPeriod=P1Y"
+dcid: "dc/o/s4qnr8kl48mhd"
+
+Node: 1_12/E0/1b80b3ad-74a5-edb8-b229-0b79a08a2b56
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:Area
+value: 4494.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=AreaobservationDate=2019value=4494.9observationPeriod=P1Y"
+dcid: "dc/o/vnm9zmttdqz62"
+
+Node: 1_12/E1/04e64b4d-7a9e-ef87-4580-4b6b7c8894ed
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:PopulationDensity
+value: 704
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=PopulationDensityobservationDate=2019value=704observationPeriod=P1Y"
+dcid: "dc/o/zsyw33qvpnpyf"
+
+Node: 1_12/E0/04e64b4d-7a9e-ef87-4580-4b6b7c8894ed
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:Area
+value: 2510.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=AreaobservationDate=2019value=2510.6observationPeriod=P1Y"
+dcid: "dc/o/dqst4mmt5yey7"
+
+Node: 1_12/E1/bd779257-7dee-a964-c6df-eabee9d01b11
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:PopulationDensity
+value: 538
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=PopulationDensityobservationDate=2019value=538observationPeriod=P1Y"
+dcid: "dc/o/psyerblv2yj17"
+
+Node: 1_12/E0/bd779257-7dee-a964-c6df-eabee9d01b11
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:Area
+value: 2394.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=AreaobservationDate=2019value=2394.8observationPeriod=P1Y"
+dcid: "dc/o/3xk5f45016609"
+
+Node: 1_12/E1/98684981-12fe-0c47-ca8c-e040a73e3fcc
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:PopulationDensity
+value: 428
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=PopulationDensityobservationDate=2019value=428observationPeriod=P1Y"
+dcid: "dc/o/z1ygnhldh6rg7"
+
+Node: 1_12/E0/98684981-12fe-0c47-ca8c-e040a73e3fcc
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:Area
+value: 2358.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=AreaobservationDate=2019value=2358.3observationPeriod=P1Y"
+dcid: "dc/o/0ppkeqsrm0y49"
+
+Node: 1_12/E1/0ac81bd5-d3b9-35d2-a159-40c01db3c942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:PopulationDensity
+value: 670
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=PopulationDensityobservationDate=2019value=670observationPeriod=P1Y"
+dcid: "dc/o/blv9y51zwtsg"
+
+Node: 1_12/E0/0ac81bd5-d3b9-35d2-a159-40c01db3c942
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:Area
+value: 1525.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=AreaobservationDate=2019value=1525.7observationPeriod=P1Y"
+dcid: "dc/o/snese02tkkxr9"
+
+Node: 1_12/E1/ea70df95-c48f-abb4-7b37-1928f47b55d7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:PopulationDensity
+value: 472
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=PopulationDensityobservationDate=2019value=472observationPeriod=P1Y"
+dcid: "dc/o/9q3gte648nd52"
+
+Node: 1_12/E0/ea70df95-c48f-abb4-7b37-1928f47b55d7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:Area
+value: 3383.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=AreaobservationDate=2019value=3383.8observationPeriod=P1Y"
+dcid: "dc/o/w5nlgzecmbym2"
+
+Node: 1_12/E1/7b45b77e-97f1-6c8e-a36f-9e85b42ee274
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:PopulationDensity
+value: 539
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=PopulationDensityobservationDate=2019value=539observationPeriod=P1Y"
+dcid: "dc/o/psd3xzlbkqyc"
+
+Node: 1_12/E0/7b45b77e-97f1-6c8e-a36f-9e85b42ee274
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:Area
+value: 3536.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=AreaobservationDate=2019value=3536.7observationPeriod=P1Y"
+dcid: "dc/o/s7my9lnynff39"
+
+Node: 1_12/E1/ce6b2091-da0d-5999-8f68-e6b09a27edff
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:PopulationDensity
+value: 272
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=PopulationDensityobservationDate=2019value=272observationPeriod=P1Y"
+dcid: "dc/o/gkk75fspkgpmc"
+
+Node: 1_12/E0/ce6b2091-da0d-5999-8f68-e6b09a27edff
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:Area
+value: 6348.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=AreaobservationDate=2019value=6348.8observationPeriod=P1Y"
+dcid: "dc/o/9g8ljy2qnz3r"
+
+Node: 1_12/E1/54bc0735-532e-dbb9-f5ad-be3fde84d789
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:PopulationDensity
+value: 859
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=PopulationDensityobservationDate=2019value=859observationPeriod=P1Y"
+dcid: "dc/o/ddfyn6ecq8gdh"
+
+Node: 1_12/E0/54bc0735-532e-dbb9-f5ad-be3fde84d789
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:Area
+value: 1439.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=AreaobservationDate=2019value=1439.0observationPeriod=P1Y"
+dcid: "dc/o/44383f62enbcf"
+
+Node: 1_12/E1/929ab435-afb3-8026-a13c-41d9cb0d8535
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:PopulationDensity
+value: 451
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=PopulationDensityobservationDate=2019value=451observationPeriod=P1Y"
+dcid: "dc/o/84jd47yr4tb18"
+
+Node: 1_12/E0/929ab435-afb3-8026-a13c-41d9cb0d8535
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:Area
+value: 1621.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=AreaobservationDate=2019value=1621.7observationPeriod=P1Y"
+dcid: "dc/o/nbc4xb4fbz2d8"
+
+Node: 1_12/E1/b44a10e7-04b6-b251-ddf8-91be7bf2e3b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:PopulationDensity
+value: 362
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=PopulationDensityobservationDate=2019value=362observationPeriod=P1Y"
+dcid: "dc/o/c3yfzbrv0m8g4"
+
+Node: 1_12/E0/b44a10e7-04b6-b251-ddf8-91be7bf2e3b7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:Area
+value: 3311.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=AreaobservationDate=2019value=3311.9observationPeriod=P1Y"
+dcid: "dc/o/2csx2hgvskw71"
+
+Node: 1_12/E1/cc950f35-2dd0-3dd1-6d43-05286f7df810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:PopulationDensity
+value: 340
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=PopulationDensityobservationDate=2019value=340observationPeriod=P1Y"
+dcid: "dc/o/yghv6vl74q41h"
+
+Node: 1_12/E0/cc950f35-2dd0-3dd1-6d43-05286f7df810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:Area
+value: 2669.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=AreaobservationDate=2019value=2669.0observationPeriod=P1Y"
+dcid: "dc/o/gb80hg5vq2jtc"
+
+Node: 1_12/E1/373b2672-8c3d-3803-817f-c1718ecde38f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:PopulationDensity
+value: 229
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=PopulationDensityobservationDate=2019value=229observationPeriod=P1Y"
+dcid: "dc/o/p9rvr4mmbql6b"
+
+Node: 1_12/E0/373b2672-8c3d-3803-817f-c1718ecde38f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:Area
+value: 5221.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=AreaobservationDate=2019value=5221.2observationPeriod=P1Y"
+dcid: "dc/o/wtq2b4y355bk1"
+

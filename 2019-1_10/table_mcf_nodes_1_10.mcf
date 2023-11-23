@@ -1,0 +1,3150 @@
+Node: 1_10/E1/973179ef-100f-140c-ee12-cf68bc0ad368
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:MalePopulation
+value: 4012.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=MalePopulationobservationDate=2019value=4012.7observationPeriod=P1Y"
+dcid: "dc/o/lgwzrzk97kq18"
+
+Node: 1_10/E0/973179ef-100f-140c-ee12-cf68bc0ad368
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:TotalPopulation
+value: 8093.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=TotalPopulationobservationDate=2019value=8093.9observationPeriod=P1Y"
+dcid: "dc/o/blhwvl6dsjb03"
+
+Node: 1_10/E3/973179ef-100f-140c-ee12-cf68bc0ad368
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:UrbanPopulation
+value: 4000.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=UrbanPopulationobservationDate=2019value=4000.3observationPeriod=P1Y"
+dcid: "dc/o/8djjgb8d0n0zc"
+
+Node: 1_10/E2/973179ef-100f-140c-ee12-cf68bc0ad368
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:FemalePopulation
+value: 4081.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=FemalePopulationobservationDate=2019value=4081.2observationPeriod=P1Y"
+dcid: "dc/o/gq3lf11v3qnqd"
+
+Node: 1_10/E4/973179ef-100f-140c-ee12-cf68bc0ad368
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1858
+variableMeasured: dcid:RuralPopulation
+value: 4093.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1858variableMeasured=RuralPopulationobservationDate=2019value=4093.6observationPeriod=P1Y"
+dcid: "dc/o/2h8gy1gzgsqgd"
+
+Node: 1_10/E1/9d1db4b0-76f1-342e-1866-1e8715f382c8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:MalePopulation
+value: 575.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=MalePopulationobservationDate=2019value=575.4observationPeriod=P1Y"
+dcid: "dc/o/35n77tl2psp9g"
+
+Node: 1_10/E0/9d1db4b0-76f1-342e-1866-1e8715f382c8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:TotalPopulation
+value: 1154.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=TotalPopulationobservationDate=2019value=1154.8observationPeriod=P1Y"
+dcid: "dc/o/48s0bh3rxrr89"
+
+Node: 1_10/E3/9d1db4b0-76f1-342e-1866-1e8715f382c8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:UrbanPopulation
+value: 295.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=UrbanPopulationobservationDate=2019value=295.2observationPeriod=P1Y"
+dcid: "dc/o/0em2ly35tvx51"
+
+Node: 1_10/E2/9d1db4b0-76f1-342e-1866-1e8715f382c8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:FemalePopulation
+value: 579.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=FemalePopulationobservationDate=2019value=579.4observationPeriod=P1Y"
+dcid: "dc/o/ky61hdexhene7"
+
+Node: 1_10/E4/9d1db4b0-76f1-342e-1866-1e8715f382c8
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q27566
+variableMeasured: dcid:RuralPopulation
+value: 859.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q27566variableMeasured=RuralPopulationobservationDate=2019value=859.6observationPeriod=P1Y"
+dcid: "dc/o/1s77zj9ehv2p4"
+
+Node: 1_10/E1/79c8d7e5-c288-bfb0-5af6-64da2ef5b467
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:MalePopulation
+value: 681.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=MalePopulationobservationDate=2019value=681.0observationPeriod=P1Y"
+dcid: "dc/o/c9sy78l9vyjb7"
+
+Node: 1_10/E0/79c8d7e5-c288-bfb0-5af6-64da2ef5b467
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:TotalPopulation
+value: 1378.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=TotalPopulationobservationDate=2019value=1378.6observationPeriod=P1Y"
+dcid: "dc/o/gxnjp2d9cxc1f"
+
+Node: 1_10/E3/79c8d7e5-c288-bfb0-5af6-64da2ef5b467
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:UrbanPopulation
+value: 380.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=UrbanPopulationobservationDate=2019value=380.9observationPeriod=P1Y"
+dcid: "dc/o/xg8dx1v3d5642"
+
+Node: 1_10/E2/79c8d7e5-c288-bfb0-5af6-64da2ef5b467
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:FemalePopulation
+value: 697.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=FemalePopulationobservationDate=2019value=697.6observationPeriod=P1Y"
+dcid: "dc/o/9xhml84ncwknb"
+
+Node: 1_10/E4/79c8d7e5-c288-bfb0-5af6-64da2ef5b467
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33381
+variableMeasured: dcid:RuralPopulation
+value: 997.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33381variableMeasured=RuralPopulationobservationDate=2019value=997.7observationPeriod=P1Y"
+dcid: "dc/o/e3qrt0f7e7lf3"
+
+Node: 1_10/E1/2b913e46-bfca-11b7-3841-65a6f9853ae7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:MalePopulation
+value: 673.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=MalePopulationobservationDate=2019value=673.7observationPeriod=P1Y"
+dcid: "dc/o/lpcs7dqf0cqm"
+
+Node: 1_10/E0/2b913e46-bfca-11b7-3841-65a6f9853ae7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:TotalPopulation
+value: 1324.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=TotalPopulationobservationDate=2019value=1324.8observationPeriod=P1Y"
+dcid: "dc/o/6d6jqkhgvkzr9"
+
+Node: 1_10/E3/2b913e46-bfca-11b7-3841-65a6f9853ae7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:UrbanPopulation
+value: 853.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=UrbanPopulationobservationDate=2019value=853.7observationPeriod=P1Y"
+dcid: "dc/o/0y793plqylf49"
+
+Node: 1_10/E2/2b913e46-bfca-11b7-3841-65a6f9853ae7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:FemalePopulation
+value: 651.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=FemalePopulationobservationDate=2019value=651.1observationPeriod=P1Y"
+dcid: "dc/o/mdp8ekneyry0c"
+
+Node: 1_10/E4/2b913e46-bfca-11b7-3841-65a6f9853ae7
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33396
+variableMeasured: dcid:RuralPopulation
+value: 471.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33396variableMeasured=RuralPopulationobservationDate=2019value=471.1observationPeriod=P1Y"
+dcid: "dc/o/7yjftze0y528b"
+
+Node: 1_10/E1/b18e9b9f-4ffc-1946-2fac-0d6cd34ab2dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:MalePopulation
+value: 942.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=MalePopulationobservationDate=2019value=942.7observationPeriod=P1Y"
+dcid: "dc/o/vkmrj7qbdhmm5"
+
+Node: 1_10/E0/b18e9b9f-4ffc-1946-2fac-0d6cd34ab2dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:TotalPopulation
+value: 1896.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=TotalPopulationobservationDate=2019value=1896.9observationPeriod=P1Y"
+dcid: "dc/o/p44e3c6m54vz1"
+
+Node: 1_10/E3/b18e9b9f-4ffc-1946-2fac-0d6cd34ab2dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:UrbanPopulation
+value: 594.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=UrbanPopulationobservationDate=2019value=594.2observationPeriod=P1Y"
+dcid: "dc/o/vdpsyj29d5d3b"
+
+Node: 1_10/E2/b18e9b9f-4ffc-1946-2fac-0d6cd34ab2dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:FemalePopulation
+value: 954.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=FemalePopulationobservationDate=2019value=954.2observationPeriod=P1Y"
+dcid: "dc/o/cc5y8tes8nt0c"
+
+Node: 1_10/E4/b18e9b9f-4ffc-1946-2fac-0d6cd34ab2dd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36354
+variableMeasured: dcid:RuralPopulation
+value: 1302.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36354variableMeasured=RuralPopulationobservationDate=2019value=1302.7observationPeriod=P1Y"
+dcid: "dc/o/hz2m33vjbk61h"
+
+Node: 1_10/E1/efe31ef9-e1b3-bc26-2c68-6f4f5beed8f9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:MalePopulation
+value: 1010.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=MalePopulationobservationDate=2019value=1010.2observationPeriod=P1Y"
+dcid: "dc/o/1nvx8hql1q7y8"
+
+Node: 1_10/E0/efe31ef9-e1b3-bc26-2c68-6f4f5beed8f9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:TotalPopulation
+value: 2033.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=TotalPopulationobservationDate=2019value=2033.3observationPeriod=P1Y"
+dcid: "dc/o/ret7xm70ve8q5"
+
+Node: 1_10/E3/efe31ef9-e1b3-bc26-2c68-6f4f5beed8f9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:UrbanPopulation
+value: 926.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=UrbanPopulationobservationDate=2019value=926.9observationPeriod=P1Y"
+dcid: "dc/o/ffrr0ebldej4h"
+
+Node: 1_10/E2/efe31ef9-e1b3-bc26-2c68-6f4f5beed8f9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:FemalePopulation
+value: 1023.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=FemalePopulationobservationDate=2019value=1023.1observationPeriod=P1Y"
+dcid: "dc/o/2tp9gb2x531c6"
+
+Node: 1_10/E4/efe31ef9-e1b3-bc26-2c68-6f4f5beed8f9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q72818
+variableMeasured: dcid:RuralPopulation
+value: 1106.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q72818variableMeasured=RuralPopulationobservationDate=2019value=1106.4observationPeriod=P1Y"
+dcid: "dc/o/5y7hwxy1nm6kc"
+
+Node: 1_10/E1/1909c256-6fdd-31f9-560a-d00a6e1b80cd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:MalePopulation
+value: 628.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=MalePopulationobservationDate=2019value=628.7observationPeriod=P1Y"
+dcid: "dc/o/hvj7hmbrbg80c"
+
+Node: 1_10/E0/1909c256-6fdd-31f9-560a-d00a6e1b80cd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:TotalPopulation
+value: 1255.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=TotalPopulationobservationDate=2019value=1255.8observationPeriod=P1Y"
+dcid: "dc/o/7c23xsrvyt6b2"
+
+Node: 1_10/E3/1909c256-6fdd-31f9-560a-d00a6e1b80cd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:UrbanPopulation
+value: 207.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=UrbanPopulationobservationDate=2019value=207.3observationPeriod=P1Y"
+dcid: "dc/o/2t39yrv8ye7c9"
+
+Node: 1_10/E2/1909c256-6fdd-31f9-560a-d00a6e1b80cd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:FemalePopulation
+value: 627.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=FemalePopulationobservationDate=2019value=627.1observationPeriod=P1Y"
+dcid: "dc/o/v263093bj8v75"
+
+Node: 1_10/E4/1909c256-6fdd-31f9-560a-d00a6e1b80cd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36485
+variableMeasured: dcid:RuralPopulation
+value: 1048.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36485variableMeasured=RuralPopulationobservationDate=2019value=1048.5observationPeriod=P1Y"
+dcid: "dc/o/2rke0dztlm663"
+
+Node: 1_10/E1/d37b5170-ea0f-a3bf-825f-530047d51667
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:MalePopulation
+value: 906.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=MalePopulationobservationDate=2019value=906.5observationPeriod=P1Y"
+dcid: "dc/o/r0tgfxjcmev34"
+
+Node: 1_10/E0/d37b5170-ea0f-a3bf-825f-530047d51667
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:TotalPopulation
+value: 1862.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=TotalPopulationobservationDate=2019value=1862.2observationPeriod=P1Y"
+dcid: "dc/o/e90c6e88kzqe5"
+
+Node: 1_10/E3/d37b5170-ea0f-a3bf-825f-530047d51667
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:UrbanPopulation
+value: 197.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=UrbanPopulationobservationDate=2019value=197.0observationPeriod=P1Y"
+dcid: "dc/o/z87h95rrd8d9b"
+
+Node: 1_10/E2/d37b5170-ea0f-a3bf-825f-530047d51667
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:FemalePopulation
+value: 955.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=FemalePopulationobservationDate=2019value=955.7observationPeriod=P1Y"
+dcid: "dc/o/pfdpgsx9p8x6"
+
+Node: 1_10/E4/d37b5170-ea0f-a3bf-825f-530047d51667
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36497
+variableMeasured: dcid:RuralPopulation
+value: 1665.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36497variableMeasured=RuralPopulationobservationDate=2019value=1665.2observationPeriod=P1Y"
+dcid: "dc/o/ymyhxmltcsrz"
+
+Node: 1_10/E1/2857abfd-961e-4292-d823-7cf6e68b2644
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:MalePopulation
+value: 420.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=MalePopulationobservationDate=2019value=420.7observationPeriod=P1Y"
+dcid: "dc/o/k0hqr2legxdlb"
+
+Node: 1_10/E0/2857abfd-961e-4292-d823-7cf6e68b2644
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:TotalPopulation
+value: 854.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=TotalPopulationobservationDate=2019value=854.5observationPeriod=P1Y"
+dcid: "dc/o/w7vp639vdmwb7"
+
+Node: 1_10/E3/2857abfd-961e-4292-d823-7cf6e68b2644
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:UrbanPopulation
+value: 143.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=UrbanPopulationobservationDate=2019value=143.3observationPeriod=P1Y"
+dcid: "dc/o/0b21e4ef0t8e5"
+
+Node: 1_10/E2/2857abfd-961e-4292-d823-7cf6e68b2644
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:FemalePopulation
+value: 433.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=FemalePopulationobservationDate=2019value=433.8observationPeriod=P1Y"
+dcid: "dc/o/mbmwbv0mj1qzb"
+
+Node: 1_10/E4/2857abfd-961e-4292-d823-7cf6e68b2644
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36413
+variableMeasured: dcid:RuralPopulation
+value: 711.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36413variableMeasured=RuralPopulationobservationDate=2019value=711.2observationPeriod=P1Y"
+dcid: "dc/o/h0b7gww9ltjt7"
+
+Node: 1_10/E1/6bd9539b-3f57-9038-4cda-74e8c721f2f6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:MalePopulation
+value: 872.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=MalePopulationobservationDate=2019value=872.5observationPeriod=P1Y"
+dcid: "dc/o/3bd2bmvftrrp5"
+
+Node: 1_10/E0/6bd9539b-3f57-9038-4cda-74e8c721f2f6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:TotalPopulation
+value: 1780.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=TotalPopulationobservationDate=2019value=1780.9observationPeriod=P1Y"
+dcid: "dc/o/dl9zz4qv654ch"
+
+Node: 1_10/E3/6bd9539b-3f57-9038-4cda-74e8c721f2f6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:UrbanPopulation
+value: 323.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=UrbanPopulationobservationDate=2019value=323.7observationPeriod=P1Y"
+dcid: "dc/o/57rztx1zlm7wh"
+
+Node: 1_10/E2/6bd9539b-3f57-9038-4cda-74e8c721f2f6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:FemalePopulation
+value: 908.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=FemalePopulationobservationDate=2019value=908.4observationPeriod=P1Y"
+dcid: "dc/o/b48f9tgv86t41"
+
+Node: 1_10/E4/6bd9539b-3f57-9038-4cda-74e8c721f2f6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33682
+variableMeasured: dcid:RuralPopulation
+value: 1457.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33682variableMeasured=RuralPopulationobservationDate=2019value=1457.2observationPeriod=P1Y"
+dcid: "dc/o/t9qrnl245h8yc"
+
+Node: 1_10/E1/540f0ef5-ab7d-79e8-db6b-8c07e29aaed2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:MalePopulation
+value: 490.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=MalePopulationobservationDate=2019value=490.4observationPeriod=P1Y"
+dcid: "dc/o/lfynpp1m9xbc3"
+
+Node: 1_10/E0/540f0ef5-ab7d-79e8-db6b-8c07e29aaed2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:TotalPopulation
+value: 984.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=TotalPopulationobservationDate=2019value=984.5observationPeriod=P1Y"
+dcid: "dc/o/nk0bnknxm5pg6"
+
+Node: 1_10/E3/540f0ef5-ab7d-79e8-db6b-8c07e29aaed2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:UrbanPopulation
+value: 207.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=UrbanPopulationobservationDate=2019value=207.8observationPeriod=P1Y"
+dcid: "dc/o/3308tzjrp30qf"
+
+Node: 1_10/E2/540f0ef5-ab7d-79e8-db6b-8c07e29aaed2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:FemalePopulation
+value: 494.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=FemalePopulationobservationDate=2019value=494.1observationPeriod=P1Y"
+dcid: "dc/o/xjwmywr0jtt8b"
+
+Node: 1_10/E4/540f0ef5-ab7d-79e8-db6b-8c07e29aaed2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33929
+variableMeasured: dcid:RuralPopulation
+value: 776.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33929variableMeasured=RuralPopulationobservationDate=2019value=776.7observationPeriod=P1Y"
+dcid: "dc/o/x3lf98lzb11lg"
+
+Node: 1_10/E1/d1ed650a-95f5-a467-c57d-1c635119ddab
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:MalePopulation
+value: 433.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=MalePopulationobservationDate=2019value=433.6observationPeriod=P1Y"
+dcid: "dc/o/6drgfvg0ltd69"
+
+Node: 1_10/E0/d1ed650a-95f5-a467-c57d-1c635119ddab
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:TotalPopulation
+value: 858.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=TotalPopulationobservationDate=2019value=858.1observationPeriod=P1Y"
+dcid: "dc/o/z933t1ztds3b"
+
+Node: 1_10/E3/d1ed650a-95f5-a467-c57d-1c635119ddab
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:UrbanPopulation
+value: 137.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=UrbanPopulationobservationDate=2019value=137.2observationPeriod=P1Y"
+dcid: "dc/o/64lh27zl5jf49"
+
+Node: 1_10/E2/d1ed650a-95f5-a467-c57d-1c635119ddab
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:FemalePopulation
+value: 424.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=FemalePopulationobservationDate=2019value=424.5observationPeriod=P1Y"
+dcid: "dc/o/3qtcnvxsclfs"
+
+Node: 1_10/E4/d1ed650a-95f5-a467-c57d-1c635119ddab
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36685
+variableMeasured: dcid:RuralPopulation
+value: 720.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36685variableMeasured=RuralPopulationobservationDate=2019value=720.9observationPeriod=P1Y"
+dcid: "dc/o/yzz49pcklscz"
+
+Node: 1_10/E1/4c757095-a8bd-5d34-4d6d-1ab61e5dc897
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:MalePopulation
+value: 266.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=MalePopulationobservationDate=2019value=266.0observationPeriod=P1Y"
+dcid: "dc/o/dmgbpfgp2k8l6"
+
+Node: 1_10/E0/4c757095-a8bd-5d34-4d6d-1ab61e5dc897
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:TotalPopulation
+value: 530.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=TotalPopulationobservationDate=2019value=530.9observationPeriod=P1Y"
+dcid: "dc/o/le9ehr5ljtd7c"
+
+Node: 1_10/E3/4c757095-a8bd-5d34-4d6d-1ab61e5dc897
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:UrbanPopulation
+value: 124.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=UrbanPopulationobservationDate=2019value=124.5observationPeriod=P1Y"
+dcid: "dc/o/0lzf6h22l3pz3"
+
+Node: 1_10/E2/4c757095-a8bd-5d34-4d6d-1ab61e5dc897
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:FemalePopulation
+value: 264.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=FemalePopulationobservationDate=2019value=264.9observationPeriod=P1Y"
+dcid: "dc/o/hkpw1f4qm0ey"
+
+Node: 1_10/E4/4c757095-a8bd-5d34-4d6d-1ab61e5dc897
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36865
+variableMeasured: dcid:RuralPopulation
+value: 406.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36865variableMeasured=RuralPopulationobservationDate=2019value=406.4observationPeriod=P1Y"
+dcid: "dc/o/m56q5g8df0l9d"
+
+Node: 1_10/E1/7f2710dd-cbe9-94b9-77c0-9ebad1277c84
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:MalePopulation
+value: 160.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=MalePopulationobservationDate=2019value=160.3observationPeriod=P1Y"
+dcid: "dc/o/xfhftlv12hsk4"
+
+Node: 1_10/E0/7f2710dd-cbe9-94b9-77c0-9ebad1277c84
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:TotalPopulation
+value: 314.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=TotalPopulationobservationDate=2019value=314.4observationPeriod=P1Y"
+dcid: "dc/o/6r7nscpk0dhb5"
+
+Node: 1_10/E3/7f2710dd-cbe9-94b9-77c0-9ebad1277c84
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:UrbanPopulation
+value: 65.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=UrbanPopulationobservationDate=2019value=65.6observationPeriod=P1Y"
+dcid: "dc/o/yr372kncsm9xg"
+
+Node: 1_10/E2/7f2710dd-cbe9-94b9-77c0-9ebad1277c84
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:FemalePopulation
+value: 154.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=FemalePopulationobservationDate=2019value=154.1observationPeriod=P1Y"
+dcid: "dc/o/e1s5r7l717ed2"
+
+Node: 1_10/E4/7f2710dd-cbe9-94b9-77c0-9ebad1277c84
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36404
+variableMeasured: dcid:RuralPopulation
+value: 248.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36404variableMeasured=RuralPopulationobservationDate=2019value=248.8observationPeriod=P1Y"
+dcid: "dc/o/82r49v3yxmyt3"
+
+Node: 1_10/E1/a4908382-2bd6-da8d-3871-09d82d9b34ca
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:MalePopulation
+value: 396.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=MalePopulationobservationDate=2019value=396.0observationPeriod=P1Y"
+dcid: "dc/o/s3qw8lsj7c36h"
+
+Node: 1_10/E0/a4908382-2bd6-da8d-3871-09d82d9b34ca
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:TotalPopulation
+value: 786.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=TotalPopulationobservationDate=2019value=786.3observationPeriod=P1Y"
+dcid: "dc/o/m8h3tyj3lgv1f"
+
+Node: 1_10/E3/a4908382-2bd6-da8d-3871-09d82d9b34ca
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:UrbanPopulation
+value: 108.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=UrbanPopulationobservationDate=2019value=108.6observationPeriod=P1Y"
+dcid: "dc/o/gye5e4p2yce6b"
+
+Node: 1_10/E2/a4908382-2bd6-da8d-3871-09d82d9b34ca
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:FemalePopulation
+value: 390.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=FemalePopulationobservationDate=2019value=390.3observationPeriod=P1Y"
+dcid: "dc/o/v95e6077lnb41"
+
+Node: 1_10/E4/a4908382-2bd6-da8d-3871-09d82d9b34ca
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33389
+variableMeasured: dcid:RuralPopulation
+value: 677.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33389variableMeasured=RuralPopulationobservationDate=2019value=677.7observationPeriod=P1Y"
+dcid: "dc/o/1hvqnxlzb5wg8"
+
+Node: 1_10/E1/a78bb950-6377-9c6a-ca53-7c72c127843a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:MalePopulation
+value: 372.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=MalePopulationobservationDate=2019value=372.9observationPeriod=P1Y"
+dcid: "dc/o/bnww15bfgy5zg"
+
+Node: 1_10/E0/a78bb950-6377-9c6a-ca53-7c72c127843a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:TotalPopulation
+value: 733.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=TotalPopulationobservationDate=2019value=733.3observationPeriod=P1Y"
+dcid: "dc/o/ft8b052wsvyxf"
+
+Node: 1_10/E3/a78bb950-6377-9c6a-ca53-7c72c127843a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:UrbanPopulation
+value: 171.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=UrbanPopulationobservationDate=2019value=171.5observationPeriod=P1Y"
+dcid: "dc/o/exwth6skqexr8"
+
+Node: 1_10/E2/a78bb950-6377-9c6a-ca53-7c72c127843a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:FemalePopulation
+value: 360.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=FemalePopulationobservationDate=2019value=360.4observationPeriod=P1Y"
+dcid: "dc/o/0zl8kggvtxyb4"
+
+Node: 1_10/E4/a78bb950-6377-9c6a-ca53-7c72c127843a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36446
+variableMeasured: dcid:RuralPopulation
+value: 561.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36446variableMeasured=RuralPopulationobservationDate=2019value=561.8observationPeriod=P1Y"
+dcid: "dc/o/b0ssc65chsd5"
+
+Node: 1_10/E1/dcf0cd73-b57b-95c8-a7d2-c5d8e967d589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:MalePopulation
+value: 414.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=MalePopulationobservationDate=2019value=414.0observationPeriod=P1Y"
+dcid: "dc/o/wwbtlx95jdvs5"
+
+Node: 1_10/E0/dcf0cd73-b57b-95c8-a7d2-c5d8e967d589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:TotalPopulation
+value: 823.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=TotalPopulationobservationDate=2019value=823.0observationPeriod=P1Y"
+dcid: "dc/o/7z26phlzhzg"
+
+Node: 1_10/E3/dcf0cd73-b57b-95c8-a7d2-c5d8e967d589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:UrbanPopulation
+value: 163.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=UrbanPopulationobservationDate=2019value=163.3observationPeriod=P1Y"
+dcid: "dc/o/ly0jvtx5qmvw5"
+
+Node: 1_10/E2/dcf0cd73-b57b-95c8-a7d2-c5d8e967d589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:FemalePopulation
+value: 409.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=FemalePopulationobservationDate=2019value=409.0observationPeriod=P1Y"
+dcid: "dc/o/hkc9wlv6ejy32"
+
+Node: 1_10/E4/dcf0cd73-b57b-95c8-a7d2-c5d8e967d589
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26019
+variableMeasured: dcid:RuralPopulation
+value: 659.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26019variableMeasured=RuralPopulationobservationDate=2019value=659.7observationPeriod=P1Y"
+dcid: "dc/o/2f94mrttfc6mb"
+
+Node: 1_10/E1/172274f9-879b-11f6-6c87-649ac3269bf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:MalePopulation
+value: 631.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=MalePopulationobservationDate=2019value=631.0observationPeriod=P1Y"
+dcid: "dc/o/ts26e5dzy9qr"
+
+Node: 1_10/E0/172274f9-879b-11f6-6c87-649ac3269bf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:TotalPopulation
+value: 1290.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=TotalPopulationobservationDate=2019value=1290.9observationPeriod=P1Y"
+dcid: "dc/o/wewv0mwnzk7s"
+
+Node: 1_10/E3/172274f9-879b-11f6-6c87-649ac3269bf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:UrbanPopulation
+value: 413.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=UrbanPopulationobservationDate=2019value=413.9observationPeriod=P1Y"
+dcid: "dc/o/r4s0jpw1wghzh"
+
+Node: 1_10/E2/172274f9-879b-11f6-6c87-649ac3269bf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:FemalePopulation
+value: 659.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=FemalePopulationobservationDate=2019value=659.9observationPeriod=P1Y"
+dcid: "dc/o/skjqgzvmvwzcc"
+
+Node: 1_10/E4/172274f9-879b-11f6-6c87-649ac3269bf6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26575
+variableMeasured: dcid:RuralPopulation
+value: 877.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26575variableMeasured=RuralPopulationobservationDate=2019value=877.0observationPeriod=P1Y"
+dcid: "dc/o/j8j7k7yx8l831"
+
+Node: 1_10/E1/30722095-ca23-b652-c13f-2f8af74bb777
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:MalePopulation
+value: 400.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=MalePopulationobservationDate=2019value=400.0observationPeriod=P1Y"
+dcid: "dc/o/krxmpt73pq2k7"
+
+Node: 1_10/E0/30722095-ca23-b652-c13f-2f8af74bb777
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:TotalPopulation
+value: 782.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=TotalPopulationobservationDate=2019value=782.8observationPeriod=P1Y"
+dcid: "dc/o/xfc6qj3hsm1c7"
+
+Node: 1_10/E3/30722095-ca23-b652-c13f-2f8af74bb777
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:UrbanPopulation
+value: 160.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=UrbanPopulationobservationDate=2019value=160.3observationPeriod=P1Y"
+dcid: "dc/o/y2hc7v9v4j15f"
+
+Node: 1_10/E2/30722095-ca23-b652-c13f-2f8af74bb777
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:FemalePopulation
+value: 382.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=FemalePopulationobservationDate=2019value=382.8observationPeriod=P1Y"
+dcid: "dc/o/wzmdh53b84jeg"
+
+Node: 1_10/E4/30722095-ca23-b652-c13f-2f8af74bb777
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33383
+variableMeasured: dcid:RuralPopulation
+value: 622.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33383variableMeasured=RuralPopulationobservationDate=2019value=622.5observationPeriod=P1Y"
+dcid: "dc/o/tm15k2k6mv46"
+
+Node: 1_10/E1/18e05af6-42bc-057a-d86e-2b253b455078
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:MalePopulation
+value: 908.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=MalePopulationobservationDate=2019value=908.7observationPeriod=P1Y"
+dcid: "dc/o/gyggk0452bbzd"
+
+Node: 1_10/E0/18e05af6-42bc-057a-d86e-2b253b455078
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:TotalPopulation
+value: 1810.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=TotalPopulationobservationDate=2019value=1810.4observationPeriod=P1Y"
+dcid: "dc/o/x39xvgy5rdb6b"
+
+Node: 1_10/E3/18e05af6-42bc-057a-d86e-2b253b455078
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:UrbanPopulation
+value: 207.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=UrbanPopulationobservationDate=2019value=207.4observationPeriod=P1Y"
+dcid: "dc/o/w3t79r58k4ep3"
+
+Node: 1_10/E2/18e05af6-42bc-057a-d86e-2b253b455078
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:FemalePopulation
+value: 901.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=FemalePopulationobservationDate=2019value=901.7observationPeriod=P1Y"
+dcid: "dc/o/mrfkex8reqpx9"
+
+Node: 1_10/E4/18e05af6-42bc-057a-d86e-2b253b455078
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36367
+variableMeasured: dcid:RuralPopulation
+value: 1603.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36367variableMeasured=RuralPopulationobservationDate=2019value=1603.0observationPeriod=P1Y"
+dcid: "dc/o/9hfmrs21s333b"
+
+Node: 1_10/E1/190c73a8-513d-b1de-5e43-b9d1bc633a40
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:MalePopulation
+value: 729.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=MalePopulationobservationDate=2019value=729.3observationPeriod=P1Y"
+dcid: "dc/o/f259nnweezymg"
+
+Node: 1_10/E0/190c73a8-513d-b1de-5e43-b9d1bc633a40
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:TotalPopulation
+value: 1466.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=TotalPopulationobservationDate=2019value=1466.4observationPeriod=P1Y"
+dcid: "dc/o/xy3wrcqee53t9"
+
+Node: 1_10/E3/190c73a8-513d-b1de-5e43-b9d1bc633a40
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:UrbanPopulation
+value: 269.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=UrbanPopulationobservationDate=2019value=269.4observationPeriod=P1Y"
+dcid: "dc/o/p2kh0cbwm6869"
+
+Node: 1_10/E2/190c73a8-513d-b1de-5e43-b9d1bc633a40
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:FemalePopulation
+value: 737.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=FemalePopulationobservationDate=2019value=737.1observationPeriod=P1Y"
+dcid: "dc/o/hzlk3d6rdx647"
+
+Node: 1_10/E4/190c73a8-513d-b1de-5e43-b9d1bc633a40
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36610
+variableMeasured: dcid:RuralPopulation
+value: 1197.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36610variableMeasured=RuralPopulationobservationDate=2019value=1197.0observationPeriod=P1Y"
+dcid: "dc/o/9xxe6hwdfvhx9"
+
+Node: 1_10/E1/3918ce73-f4eb-78eb-d591-7872ce328fd0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:MalePopulation
+value: 305.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=MalePopulationobservationDate=2019value=305.1observationPeriod=P1Y"
+dcid: "dc/o/7k3188wnqbrph"
+
+Node: 1_10/E0/3918ce73-f4eb-78eb-d591-7872ce328fd0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:TotalPopulation
+value: 601.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=TotalPopulationobservationDate=2019value=601.7observationPeriod=P1Y"
+dcid: "dc/o/w8nve3sznv28d"
+
+Node: 1_10/E3/3918ce73-f4eb-78eb-d591-7872ce328fd0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:UrbanPopulation
+value: 86.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=UrbanPopulationobservationDate=2019value=86.6observationPeriod=P1Y"
+dcid: "dc/o/7gbn2xqg8lmnc"
+
+Node: 1_10/E2/3918ce73-f4eb-78eb-d591-7872ce328fd0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:FemalePopulation
+value: 296.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=FemalePopulationobservationDate=2019value=296.6observationPeriod=P1Y"
+dcid: "dc/o/c9hes70xtq1nh"
+
+Node: 1_10/E4/3918ce73-f4eb-78eb-d591-7872ce328fd0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:RuralPopulation
+value: 515.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=RuralPopulationobservationDate=2019value=515.1observationPeriod=P1Y"
+dcid: "dc/o/vhj1f9t7sz847"
+
+Node: 1_10/E1/55182b26-cc00-6c46-197c-ace036e26d64
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:MalePopulation
+value: 235.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=MalePopulationobservationDate=2019value=235.6observationPeriod=P1Y"
+dcid: "dc/o/k68f38xx07pk4"
+
+Node: 1_10/E0/55182b26-cc00-6c46-197c-ace036e26d64
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:TotalPopulation
+value: 462.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=TotalPopulationobservationDate=2019value=462.6observationPeriod=P1Y"
+dcid: "dc/o/zkfm9ebn6r5s8"
+
+Node: 1_10/E3/55182b26-cc00-6c46-197c-ace036e26d64
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:UrbanPopulation
+value: 67.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=UrbanPopulationobservationDate=2019value=67.8observationPeriod=P1Y"
+dcid: "dc/o/2c04fllwv8nw9"
+
+Node: 1_10/E2/55182b26-cc00-6c46-197c-ace036e26d64
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:FemalePopulation
+value: 227.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=FemalePopulationobservationDate=2019value=227.0observationPeriod=P1Y"
+dcid: "dc/o/lxy3dg45rbzr5"
+
+Node: 1_10/E4/55182b26-cc00-6c46-197c-ace036e26d64
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36409
+variableMeasured: dcid:RuralPopulation
+value: 394.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36409variableMeasured=RuralPopulationobservationDate=2019value=394.8observationPeriod=P1Y"
+dcid: "dc/o/dgztbsxy8l4xg"
+
+Node: 1_10/E1/96b0b743-5104-2cb7-c0c6-d403033adb06
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:MalePopulation
+value: 635.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=MalePopulationobservationDate=2019value=635.0observationPeriod=P1Y"
+dcid: "dc/o/jcvzr0cehx7j5"
+
+Node: 1_10/E0/96b0b743-5104-2cb7-c0c6-d403033adb06
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:TotalPopulation
+value: 1252.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=TotalPopulationobservationDate=2019value=1252.7observationPeriod=P1Y"
+dcid: "dc/o/ssznm7914y12h"
+
+Node: 1_10/E3/96b0b743-5104-2cb7-c0c6-d403033adb06
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:UrbanPopulation
+value: 173.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=UrbanPopulationobservationDate=2019value=173.5observationPeriod=P1Y"
+dcid: "dc/o/79svkq0b61hcg"
+
+Node: 1_10/E2/96b0b743-5104-2cb7-c0c6-d403033adb06
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:FemalePopulation
+value: 617.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=FemalePopulationobservationDate=2019value=617.7observationPeriod=P1Y"
+dcid: "dc/o/89bptk4wm5bg6"
+
+Node: 1_10/E4/96b0b743-5104-2cb7-c0c6-d403033adb06
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33379
+variableMeasured: dcid:RuralPopulation
+value: 1079.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33379variableMeasured=RuralPopulationobservationDate=2019value=1079.2observationPeriod=P1Y"
+dcid: "dc/o/mejxm4kbzd414"
+
+Node: 1_10/E1/4bb365c8-3575-91c9-9af8-3f0a87f4a80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:MalePopulation
+value: 427.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=MalePopulationobservationDate=2019value=427.8observationPeriod=P1Y"
+dcid: "dc/o/p30e76fthr801"
+
+Node: 1_10/E0/4bb365c8-3575-91c9-9af8-3f0a87f4a80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:TotalPopulation
+value: 855.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=TotalPopulationobservationDate=2019value=855.8observationPeriod=P1Y"
+dcid: "dc/o/szh6972n6tl64"
+
+Node: 1_10/E3/4bb365c8-3575-91c9-9af8-3f0a87f4a80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:UrbanPopulation
+value: 134.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=UrbanPopulationobservationDate=2019value=134.7observationPeriod=P1Y"
+dcid: "dc/o/cf74ps7rqf9h8"
+
+Node: 1_10/E2/4bb365c8-3575-91c9-9af8-3f0a87f4a80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:FemalePopulation
+value: 428.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=FemalePopulationobservationDate=2019value=428.0observationPeriod=P1Y"
+dcid: "dc/o/lw4x2sz9zy6fh"
+
+Node: 1_10/E4/4bb365c8-3575-91c9-9af8-3f0a87f4a80f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36015
+variableMeasured: dcid:RuralPopulation
+value: 721.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36015variableMeasured=RuralPopulationobservationDate=2019value=721.1observationPeriod=P1Y"
+dcid: "dc/o/hqpv9ye3y8ms8"
+
+Node: 1_10/E1/27d6ec14-b2ba-b769-ade0-a35f76b6462c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:MalePopulation
+value: 1819.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=MalePopulationobservationDate=2019value=1819.3observationPeriod=P1Y"
+dcid: "dc/o/f6h08yk26xbx5"
+
+Node: 1_10/E0/27d6ec14-b2ba-b769-ade0-a35f76b6462c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:TotalPopulation
+value: 3645.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=TotalPopulationobservationDate=2019value=3645.8observationPeriod=P1Y"
+dcid: "dc/o/vlpjy5xmknzfh"
+
+Node: 1_10/E3/27d6ec14-b2ba-b769-ade0-a35f76b6462c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:UrbanPopulation
+value: 547.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=UrbanPopulationobservationDate=2019value=547.2observationPeriod=P1Y"
+dcid: "dc/o/551ycwhbherc8"
+
+Node: 1_10/E2/27d6ec14-b2ba-b769-ade0-a35f76b6462c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:FemalePopulation
+value: 1826.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=FemalePopulationobservationDate=2019value=1826.5observationPeriod=P1Y"
+dcid: "dc/o/nyfdq4lml19w7"
+
+Node: 1_10/E4/27d6ec14-b2ba-b769-ade0-a35f76b6462c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36955
+variableMeasured: dcid:RuralPopulation
+value: 3098.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36955variableMeasured=RuralPopulationobservationDate=2019value=3098.6observationPeriod=P1Y"
+dcid: "dc/o/8flz4qcd10t5b"
+
+Node: 1_10/E1/aecac1bb-4289-3113-4edc-8805d133cc25
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:MalePopulation
+value: 1669.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=MalePopulationobservationDate=2019value=1669.5observationPeriod=P1Y"
+dcid: "dc/o/ryl2zqyp9djwh"
+
+Node: 1_10/E0/aecac1bb-4289-3113-4edc-8805d133cc25
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:TotalPopulation
+value: 3337.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=TotalPopulationobservationDate=2019value=3337.2observationPeriod=P1Y"
+dcid: "dc/o/m3ze7nzg57s9"
+
+Node: 1_10/E3/aecac1bb-4289-3113-4edc-8805d133cc25
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:UrbanPopulation
+value: 490.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=UrbanPopulationobservationDate=2019value=490.5observationPeriod=P1Y"
+dcid: "dc/o/ev0d1m0x5yzyc"
+
+Node: 1_10/E2/aecac1bb-4289-3113-4edc-8805d133cc25
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:FemalePopulation
+value: 1667.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=FemalePopulationobservationDate=2019value=1667.7observationPeriod=P1Y"
+dcid: "dc/o/lb5pwksc893cc"
+
+Node: 1_10/E4/aecac1bb-4289-3113-4edc-8805d133cc25
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36587
+variableMeasured: dcid:RuralPopulation
+value: 2846.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36587variableMeasured=RuralPopulationobservationDate=2019value=2846.7observationPeriod=P1Y"
+dcid: "dc/o/84rhb5pembfq1"
+
+Node: 1_10/E1/fd2d9cb6-3678-8a2d-dccf-f3202ae5d8c6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:MalePopulation
+value: 641.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=MalePopulationobservationDate=2019value=641.5observationPeriod=P1Y"
+dcid: "dc/o/cy17cv5fz2gqc"
+
+Node: 1_10/E0/fd2d9cb6-3678-8a2d-dccf-f3202ae5d8c6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:TotalPopulation
+value: 1290.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=TotalPopulationobservationDate=2019value=1290.3observationPeriod=P1Y"
+dcid: "dc/o/j38m655ym1dr7"
+
+Node: 1_10/E3/fd2d9cb6-3678-8a2d-dccf-f3202ae5d8c6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:UrbanPopulation
+value: 253.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=UrbanPopulationobservationDate=2019value=253.9observationPeriod=P1Y"
+dcid: "dc/o/j0pbh4mrcj0f3"
+
+Node: 1_10/E2/fd2d9cb6-3678-8a2d-dccf-f3202ae5d8c6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:FemalePopulation
+value: 648.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=FemalePopulationobservationDate=2019value=648.8observationPeriod=P1Y"
+dcid: "dc/o/13yt33ltk65gg"
+
+Node: 1_10/E4/fd2d9cb6-3678-8a2d-dccf-f3202ae5d8c6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33351
+variableMeasured: dcid:RuralPopulation
+value: 1036.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33351variableMeasured=RuralPopulationobservationDate=2019value=1036.4observationPeriod=P1Y"
+dcid: "dc/o/fx8zg4hl9npf1"
+
+Node: 1_10/E1/6099d316-96ca-5fa2-0fdf-a9260706486c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:MalePopulation
+value: 449.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=MalePopulationobservationDate=2019value=449.9observationPeriod=P1Y"
+dcid: "dc/o/d1f042jyzbnq1"
+
+Node: 1_10/E0/6099d316-96ca-5fa2-0fdf-a9260706486c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:TotalPopulation
+value: 896.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=TotalPopulationobservationDate=2019value=896.6observationPeriod=P1Y"
+dcid: "dc/o/5gcjmzkxrkmd5"
+
+Node: 1_10/E3/6099d316-96ca-5fa2-0fdf-a9260706486c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:UrbanPopulation
+value: 188.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=UrbanPopulationobservationDate=2019value=188.2observationPeriod=P1Y"
+dcid: "dc/o/b229xbkt3s593"
+
+Node: 1_10/E2/6099d316-96ca-5fa2-0fdf-a9260706486c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:FemalePopulation
+value: 446.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=FemalePopulationobservationDate=2019value=446.7observationPeriod=P1Y"
+dcid: "dc/o/h62zhmsvzrpb7"
+
+Node: 1_10/E4/6099d316-96ca-5fa2-0fdf-a9260706486c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q23533
+variableMeasured: dcid:RuralPopulation
+value: 708.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q23533variableMeasured=RuralPopulationobservationDate=2019value=708.4observationPeriod=P1Y"
+dcid: "dc/o/m0sk30m0n9qzd"
+
+Node: 1_10/E1/c27071be-437c-0c14-a32c-3665e9f1fdad
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:MalePopulation
+value: 314.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=MalePopulationobservationDate=2019value=314.0observationPeriod=P1Y"
+dcid: "dc/o/9yy0ncf9k8hqf"
+
+Node: 1_10/E0/c27071be-437c-0c14-a32c-3665e9f1fdad
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:TotalPopulation
+value: 633.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=TotalPopulationobservationDate=2019value=633.4observationPeriod=P1Y"
+dcid: "dc/o/8mtph570zxq7"
+
+Node: 1_10/E3/c27071be-437c-0c14-a32c-3665e9f1fdad
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:UrbanPopulation
+value: 196.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=UrbanPopulationobservationDate=2019value=196.4observationPeriod=P1Y"
+dcid: "dc/o/jzlhyh2yymfef"
+
+Node: 1_10/E2/c27071be-437c-0c14-a32c-3665e9f1fdad
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:FemalePopulation
+value: 319.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=FemalePopulationobservationDate=2019value=319.4observationPeriod=P1Y"
+dcid: "dc/o/5e3nl24gwmx14"
+
+Node: 1_10/E4/c27071be-437c-0c14-a32c-3665e9f1fdad
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36579
+variableMeasured: dcid:RuralPopulation
+value: 437.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36579variableMeasured=RuralPopulationobservationDate=2019value=437.0observationPeriod=P1Y"
+dcid: "dc/o/vxzg3k0yeq2h6"
+
+Node: 1_10/E1/59eaa376-d7a4-8dd1-28ed-07d944116e9a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:MalePopulation
+value: 559.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=MalePopulationobservationDate=2019value=559.0observationPeriod=P1Y"
+dcid: "dc/o/65nmv27crkmwg"
+
+Node: 1_10/E0/59eaa376-d7a4-8dd1-28ed-07d944116e9a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:TotalPopulation
+value: 1129.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=TotalPopulationobservationDate=2019value=1129.5observationPeriod=P1Y"
+dcid: "dc/o/r8rtgxbtj1mf4"
+
+Node: 1_10/E3/59eaa376-d7a4-8dd1-28ed-07d944116e9a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:UrbanPopulation
+value: 563.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=UrbanPopulationobservationDate=2019value=563.4observationPeriod=P1Y"
+dcid: "dc/o/3mw9zc0vs653b"
+
+Node: 1_10/E2/59eaa376-d7a4-8dd1-28ed-07d944116e9a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:FemalePopulation
+value: 570.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=FemalePopulationobservationDate=2019value=570.5observationPeriod=P1Y"
+dcid: "dc/o/lnwqf7bebfdcb"
+
+Node: 1_10/E4/59eaa376-d7a4-8dd1-28ed-07d944116e9a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36399
+variableMeasured: dcid:RuralPopulation
+value: 566.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36399variableMeasured=RuralPopulationobservationDate=2019value=566.1observationPeriod=P1Y"
+dcid: "dc/o/w9gdxypecjtbh"
+
+Node: 1_10/E1/1ca50817-035c-e6e7-0718-cef5e395725c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:MalePopulation
+value: 562.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=MalePopulationobservationDate=2019value=562.4observationPeriod=P1Y"
+dcid: "dc/o/prbs3n8e7qxf"
+
+Node: 1_10/E0/1ca50817-035c-e6e7-0718-cef5e395725c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:TotalPopulation
+value: 1141.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=TotalPopulationobservationDate=2019value=1141.1observationPeriod=P1Y"
+dcid: "dc/o/2g0244mhdmhr3"
+
+Node: 1_10/E3/1ca50817-035c-e6e7-0718-cef5e395725c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:UrbanPopulation
+value: 994.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=UrbanPopulationobservationDate=2019value=994.6observationPeriod=P1Y"
+dcid: "dc/o/ek2rks5kkmrt3"
+
+Node: 1_10/E2/1ca50817-035c-e6e7-0718-cef5e395725c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:FemalePopulation
+value: 578.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=FemalePopulationobservationDate=2019value=578.7observationPeriod=P1Y"
+dcid: "dc/o/vfj60wsbrclkd"
+
+Node: 1_10/E4/1ca50817-035c-e6e7-0718-cef5e395725c
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q25282
+variableMeasured: dcid:RuralPopulation
+value: 146.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q25282variableMeasured=RuralPopulationobservationDate=2019value=146.5observationPeriod=P1Y"
+dcid: "dc/o/csd92xlqtlxz8"
+
+Node: 1_10/E1/ac7b3404-bcb8-f21f-3653-9829811cd71d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:MalePopulation
+value: 736.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=MalePopulationobservationDate=2019value=736.6observationPeriod=P1Y"
+dcid: "dc/o/fnyrj4j5ynxd4"
+
+Node: 1_10/E0/ac7b3404-bcb8-f21f-3653-9829811cd71d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:TotalPopulation
+value: 1497.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=TotalPopulationobservationDate=2019value=1497.5observationPeriod=P1Y"
+dcid: "dc/o/s2nw14nnnpe5f"
+
+Node: 1_10/E3/ac7b3404-bcb8-f21f-3653-9829811cd71d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:UrbanPopulation
+value: 379.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=UrbanPopulationobservationDate=2019value=379.6observationPeriod=P1Y"
+dcid: "dc/o/zped4rt7328k7"
+
+Node: 1_10/E2/ac7b3404-bcb8-f21f-3653-9829811cd71d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:FemalePopulation
+value: 760.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=FemalePopulationobservationDate=2019value=760.9observationPeriod=P1Y"
+dcid: "dc/o/sxxhdsyg3pkdb"
+
+Node: 1_10/E4/ac7b3404-bcb8-f21f-3653-9829811cd71d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33356
+variableMeasured: dcid:RuralPopulation
+value: 1117.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33356variableMeasured=RuralPopulationobservationDate=2019value=1117.9observationPeriod=P1Y"
+dcid: "dc/o/fw7j3z95entb1"
+
+Node: 1_10/E1/c8690c76-1483-4cd9-9b67-9648c1477231
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:MalePopulation
+value: 608.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=MalePopulationobservationDate=2019value=608.9observationPeriod=P1Y"
+dcid: "dc/o/tksh69syzqc67"
+
+Node: 1_10/E0/c8690c76-1483-4cd9-9b67-9648c1477231
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:TotalPopulation
+value: 1231.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=TotalPopulationobservationDate=2019value=1231.9observationPeriod=P1Y"
+dcid: "dc/o/mhvk7fz5ktmg6"
+
+Node: 1_10/E3/c8690c76-1483-4cd9-9b67-9648c1477231
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:UrbanPopulation
+value: 201.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=UrbanPopulationobservationDate=2019value=201.5observationPeriod=P1Y"
+dcid: "dc/o/tsl71gdx4hn78"
+
+Node: 1_10/E2/c8690c76-1483-4cd9-9b67-9648c1477231
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:FemalePopulation
+value: 623.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=FemalePopulationobservationDate=2019value=623.0observationPeriod=P1Y"
+dcid: "dc/o/43yn1clbkrmcd"
+
+Node: 1_10/E4/c8690c76-1483-4cd9-9b67-9648c1477231
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33304
+variableMeasured: dcid:RuralPopulation
+value: 1030.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33304variableMeasured=RuralPopulationobservationDate=2019value=1030.4observationPeriod=P1Y"
+dcid: "dc/o/m9758kpfr3cs2"
+
+Node: 1_10/E1/bc0f5fd6-2794-6c29-3c23-6e95656a1fb3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:MalePopulation
+value: 732.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=MalePopulationobservationDate=2019value=732.7observationPeriod=P1Y"
+dcid: "dc/o/k24byvfyy7z47"
+
+Node: 1_10/E0/bc0f5fd6-2794-6c29-3c23-6e95656a1fb3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:TotalPopulation
+value: 1487.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=TotalPopulationobservationDate=2019value=1487.8observationPeriod=P1Y"
+dcid: "dc/o/yv66fv25k2qrh"
+
+Node: 1_10/E3/bc0f5fd6-2794-6c29-3c23-6e95656a1fb3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:UrbanPopulation
+value: 476.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=UrbanPopulationobservationDate=2019value=476.8observationPeriod=P1Y"
+dcid: "dc/o/sypp6cvpk9j2c"
+
+Node: 1_10/E2/bc0f5fd6-2794-6c29-3c23-6e95656a1fb3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:FemalePopulation
+value: 755.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=FemalePopulationobservationDate=2019value=755.1observationPeriod=P1Y"
+dcid: "dc/o/z6jfgtb51q0xf"
+
+Node: 1_10/E4/bc0f5fd6-2794-6c29-3c23-6e95656a1fb3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36693
+variableMeasured: dcid:RuralPopulation
+value: 1011.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36693variableMeasured=RuralPopulationobservationDate=2019value=1011.0observationPeriod=P1Y"
+dcid: "dc/o/pxz4e6perpdf2"
+
+Node: 1_10/E1/3528a960-142a-5802-73ca-d7cd2bbc276b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:MalePopulation
+value: 439.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=MalePopulationobservationDate=2019value=439.3observationPeriod=P1Y"
+dcid: "dc/o/xmgm8y9n2s7fc"
+
+Node: 1_10/E0/3528a960-142a-5802-73ca-d7cd2bbc276b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:TotalPopulation
+value: 873.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=TotalPopulationobservationDate=2019value=873.2observationPeriod=P1Y"
+dcid: "dc/o/xb9z1hp5elxm1"
+
+Node: 1_10/E3/3528a960-142a-5802-73ca-d7cd2bbc276b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:UrbanPopulation
+value: 251.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=UrbanPopulationobservationDate=2019value=251.0observationPeriod=P1Y"
+dcid: "dc/o/k7gpxs9k9dgvb"
+
+Node: 1_10/E2/3528a960-142a-5802-73ca-d7cd2bbc276b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:FemalePopulation
+value: 433.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=FemalePopulationobservationDate=2019value=433.9observationPeriod=P1Y"
+dcid: "dc/o/4gr751xj2fvwg"
+
+Node: 1_10/E4/3528a960-142a-5802-73ca-d7cd2bbc276b
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36725
+variableMeasured: dcid:RuralPopulation
+value: 622.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36725variableMeasured=RuralPopulationobservationDate=2019value=622.2observationPeriod=P1Y"
+dcid: "dc/o/z5rvzrlxspjp4"
+
+Node: 1_10/E1/a72a5822-1721-7800-afc2-4b81ef7a28fd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:MalePopulation
+value: 613.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=MalePopulationobservationDate=2019value=613.4observationPeriod=P1Y"
+dcid: "dc/o/8y727k5kthz82"
+
+Node: 1_10/E0/a72a5822-1721-7800-afc2-4b81ef7a28fd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:TotalPopulation
+value: 1232.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=TotalPopulationobservationDate=2019value=1232.8observationPeriod=P1Y"
+dcid: "dc/o/h0d32elk3k2d1"
+
+Node: 1_10/E3/a72a5822-1721-7800-afc2-4b81ef7a28fd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:UrbanPopulation
+value: 521.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=UrbanPopulationobservationDate=2019value=521.3observationPeriod=P1Y"
+dcid: "dc/o/00e7df44wxll7"
+
+Node: 1_10/E2/a72a5822-1721-7800-afc2-4b81ef7a28fd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:FemalePopulation
+value: 619.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=FemalePopulationobservationDate=2019value=619.4observationPeriod=P1Y"
+dcid: "dc/o/dstd6tq5s0cqf"
+
+Node: 1_10/E4/a72a5822-1721-7800-afc2-4b81ef7a28fd
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33369
+variableMeasured: dcid:RuralPopulation
+value: 711.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33369variableMeasured=RuralPopulationobservationDate=2019value=711.5observationPeriod=P1Y"
+dcid: "dc/o/0xbeexs741pt1"
+
+Node: 1_10/E1/5c894e19-aa9b-cf51-0e30-60c14ab4788e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:MalePopulation
+value: 296.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=MalePopulationobservationDate=2019value=296.3observationPeriod=P1Y"
+dcid: "dc/o/9n2hrwm66qdq6"
+
+Node: 1_10/E0/5c894e19-aa9b-cf51-0e30-60c14ab4788e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:TotalPopulation
+value: 591.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=TotalPopulationobservationDate=2019value=591.0observationPeriod=P1Y"
+dcid: "dc/o/fpgk3sbghjgc"
+
+Node: 1_10/E3/5c894e19-aa9b-cf51-0e30-60c14ab4788e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:UrbanPopulation
+value: 211.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=UrbanPopulationobservationDate=2019value=211.3observationPeriod=P1Y"
+dcid: "dc/o/6gzdz023x0p3"
+
+Node: 1_10/E2/5c894e19-aa9b-cf51-0e30-60c14ab4788e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:FemalePopulation
+value: 294.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=FemalePopulationobservationDate=2019value=294.7observationPeriod=P1Y"
+dcid: "dc/o/efqjddxqn0grf"
+
+Node: 1_10/E4/5c894e19-aa9b-cf51-0e30-60c14ab4788e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36903
+variableMeasured: dcid:RuralPopulation
+value: 379.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36903variableMeasured=RuralPopulationobservationDate=2019value=379.7observationPeriod=P1Y"
+dcid: "dc/o/jm1kxz8l72j05"
+
+Node: 1_10/E1/1ec34670-59c4-6e0d-b14b-e986178878a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:MalePopulation
+value: 619.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=MalePopulationobservationDate=2019value=619.2observationPeriod=P1Y"
+dcid: "dc/o/5gpe56p3v5tc2"
+
+Node: 1_10/E0/1ec34670-59c4-6e0d-b14b-e986178878a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:TotalPopulation
+value: 1232.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=TotalPopulationobservationDate=2019value=1232.3observationPeriod=P1Y"
+dcid: "dc/o/zqbjp6fwlym65"
+
+Node: 1_10/E3/1ec34670-59c4-6e0d-b14b-e986178878a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:UrbanPopulation
+value: 469.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=UrbanPopulationobservationDate=2019value=469.3observationPeriod=P1Y"
+dcid: "dc/o/njb8s9160ymr8"
+
+Node: 1_10/E2/1ec34670-59c4-6e0d-b14b-e986178878a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:FemalePopulation
+value: 613.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=FemalePopulationobservationDate=2019value=613.1observationPeriod=P1Y"
+dcid: "dc/o/sxqc3m988gvd3"
+
+Node: 1_10/E4/1ec34670-59c4-6e0d-b14b-e986178878a2
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36869
+variableMeasured: dcid:RuralPopulation
+value: 763.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36869variableMeasured=RuralPopulationobservationDate=2019value=763.0observationPeriod=P1Y"
+dcid: "dc/o/vl7t2sqgbme2f"
+
+Node: 1_10/E1/f1c0f670-9c7f-e3aa-3bf3-ace92834a01e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:MalePopulation
+value: 273.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=MalePopulationobservationDate=2019value=273.0observationPeriod=P1Y"
+dcid: "dc/o/evddse4wk7qnc"
+
+Node: 1_10/E0/f1c0f670-9c7f-e3aa-3bf3-ace92834a01e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:TotalPopulation
+value: 543.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=TotalPopulationobservationDate=2019value=543.4observationPeriod=P1Y"
+dcid: "dc/o/ss52xl357c09d"
+
+Node: 1_10/E3/f1c0f670-9c7f-e3aa-3bf3-ace92834a01e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:UrbanPopulation
+value: 173.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=UrbanPopulationobservationDate=2019value=173.7observationPeriod=P1Y"
+dcid: "dc/o/wxemyl6mmqpx7"
+
+Node: 1_10/E2/f1c0f670-9c7f-e3aa-3bf3-ace92834a01e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:FemalePopulation
+value: 270.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=FemalePopulationobservationDate=2019value=270.4observationPeriod=P1Y"
+dcid: "dc/o/fvdnjr7yfnmkd"
+
+Node: 1_10/E4/f1c0f670-9c7f-e3aa-3bf3-ace92834a01e
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36315
+variableMeasured: dcid:RuralPopulation
+value: 369.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36315variableMeasured=RuralPopulationobservationDate=2019value=369.7observationPeriod=P1Y"
+dcid: "dc/o/hpgpvwy4c57q1"
+
+Node: 1_10/E1/f8c4ad8b-d0f5-fab2-10e5-68ba7bf62f80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:MalePopulation
+value: 761.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=MalePopulationobservationDate=2019value=761.8observationPeriod=P1Y"
+dcid: "dc/o/kcpj91sg44qqh"
+
+Node: 1_10/E0/f8c4ad8b-d0f5-fab2-10e5-68ba7bf62f80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:TotalPopulation
+value: 1520.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=TotalPopulationobservationDate=2019value=1520.2observationPeriod=P1Y"
+dcid: "dc/o/164mzlkxl57n2"
+
+Node: 1_10/E3/f8c4ad8b-d0f5-fab2-10e5-68ba7bf62f80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:UrbanPopulation
+value: 440.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=UrbanPopulationobservationDate=2019value=440.3observationPeriod=P1Y"
+dcid: "dc/o/s3k1p8e63qnqb"
+
+Node: 1_10/E2/f8c4ad8b-d0f5-fab2-10e5-68ba7bf62f80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:FemalePopulation
+value: 758.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=FemalePopulationobservationDate=2019value=758.4observationPeriod=P1Y"
+dcid: "dc/o/n0ggv1827tc1f"
+
+Node: 1_10/E4/f8c4ad8b-d0f5-fab2-10e5-68ba7bf62f80
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36662
+variableMeasured: dcid:RuralPopulation
+value: 1079.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36662variableMeasured=RuralPopulationobservationDate=2019value=1079.9observationPeriod=P1Y"
+dcid: "dc/o/w0xnzbrmlyne1"
+
+Node: 1_10/E1/0d6b29d3-7f62-cb11-7f78-3ded32e2bfa0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:MalePopulation
+value: 944.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=MalePopulationobservationDate=2019value=944.2observationPeriod=P1Y"
+dcid: "dc/o/2j2msr9s1hgl9"
+
+Node: 1_10/E0/0d6b29d3-7f62-cb11-7f78-3ded32e2bfa0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:TotalPopulation
+value: 1872.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=TotalPopulationobservationDate=2019value=1872.6observationPeriod=P1Y"
+dcid: "dc/o/l1kvsc0fqflqd"
+
+Node: 1_10/E3/0d6b29d3-7f62-cb11-7f78-3ded32e2bfa0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:UrbanPopulation
+value: 463.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=UrbanPopulationobservationDate=2019value=463.3observationPeriod=P1Y"
+dcid: "dc/o/662cbhhzcch15"
+
+Node: 1_10/E2/0d6b29d3-7f62-cb11-7f78-3ded32e2bfa0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:FemalePopulation
+value: 928.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=FemalePopulationobservationDate=2019value=928.4observationPeriod=P1Y"
+dcid: "dc/o/80bsk3k1z7ln4"
+
+Node: 1_10/E4/0d6b29d3-7f62-cb11-7f78-3ded32e2bfa0
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36690
+variableMeasured: dcid:RuralPopulation
+value: 1409.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36690variableMeasured=RuralPopulationobservationDate=2019value=1409.3observationPeriod=P1Y"
+dcid: "dc/o/71djh6t4emk3g"
+
+Node: 1_10/E1/cc0d8e2f-b19b-c4ad-e175-92dedc63408f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:MalePopulation
+value: 322.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=MalePopulationobservationDate=2019value=322.5observationPeriod=P1Y"
+dcid: "dc/o/wlt0sekh8xdwc"
+
+Node: 1_10/E0/cc0d8e2f-b19b-c4ad-e175-92dedc63408f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:TotalPopulation
+value: 625.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=TotalPopulationobservationDate=2019value=625.8observationPeriod=P1Y"
+dcid: "dc/o/k4hqq5erhrgt6"
+
+Node: 1_10/E3/cc0d8e2f-b19b-c4ad-e175-92dedc63408f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:UrbanPopulation
+value: 95.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=UrbanPopulationobservationDate=2019value=95.4observationPeriod=P1Y"
+dcid: "dc/o/vpdvy9xl1bnf5"
+
+Node: 1_10/E2/cc0d8e2f-b19b-c4ad-e175-92dedc63408f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:FemalePopulation
+value: 303.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=FemalePopulationobservationDate=2019value=303.3observationPeriod=P1Y"
+dcid: "dc/o/x2tcn060w92c3"
+
+Node: 1_10/E4/cc0d8e2f-b19b-c4ad-e175-92dedc63408f
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36723
+variableMeasured: dcid:RuralPopulation
+value: 530.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36723variableMeasured=RuralPopulationobservationDate=2019value=530.4observationPeriod=P1Y"
+dcid: "dc/o/8113cjnjmw8zc"
+
+Node: 1_10/E1/76791d8a-7789-7ed7-4f77-454f2e4831e6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:MalePopulation
+value: 654.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=MalePopulationobservationDate=2019value=654.3observationPeriod=P1Y"
+dcid: "dc/o/21efrlwb2v8v4"
+
+Node: 1_10/E0/76791d8a-7789-7ed7-4f77-454f2e4831e6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:TotalPopulation
+value: 1299.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=TotalPopulationobservationDate=2019value=1299.3observationPeriod=P1Y"
+dcid: "dc/o/p3ct3zp4fsf2f"
+
+Node: 1_10/E3/76791d8a-7789-7ed7-4f77-454f2e4831e6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:UrbanPopulation
+value: 509.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=UrbanPopulationobservationDate=2019value=509.0observationPeriod=P1Y"
+dcid: "dc/o/web4gnh4ql28c"
+
+Node: 1_10/E2/76791d8a-7789-7ed7-4f77-454f2e4831e6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:FemalePopulation
+value: 645.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=FemalePopulationobservationDate=2019value=645.0observationPeriod=P1Y"
+dcid: "dc/o/bnb924e17dk42"
+
+Node: 1_10/E4/76791d8a-7789-7ed7-4f77-454f2e4831e6
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36721
+variableMeasured: dcid:RuralPopulation
+value: 790.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36721variableMeasured=RuralPopulationobservationDate=2019value=790.3observationPeriod=P1Y"
+dcid: "dc/o/tnjfvsgw3zy66"
+
+Node: 1_10/E1/b15b959b-16d1-3869-ba7f-dd460e49bb92
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:MalePopulation
+value: 503.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=MalePopulationobservationDate=2019value=503.0observationPeriod=P1Y"
+dcid: "dc/o/g7qlt1mdjfy89"
+
+Node: 1_10/E0/b15b959b-16d1-3869-ba7f-dd460e49bb92
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:TotalPopulation
+value: 997.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=TotalPopulationobservationDate=2019value=997.8observationPeriod=P1Y"
+dcid: "dc/o/hjr1svwh6w7j1"
+
+Node: 1_10/E3/b15b959b-16d1-3869-ba7f-dd460e49bb92
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:UrbanPopulation
+value: 238.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=UrbanPopulationobservationDate=2019value=238.5observationPeriod=P1Y"
+dcid: "dc/o/b3brtkx2fyd14"
+
+Node: 1_10/E2/b15b959b-16d1-3869-ba7f-dd460e49bb92
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:FemalePopulation
+value: 494.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=FemalePopulationobservationDate=2019value=494.8observationPeriod=P1Y"
+dcid: "dc/o/c117dte2vh1q1"
+
+Node: 1_10/E4/b15b959b-16d1-3869-ba7f-dd460e49bb92
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36672
+variableMeasured: dcid:RuralPopulation
+value: 759.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36672variableMeasured=RuralPopulationobservationDate=2019value=759.3observationPeriod=P1Y"
+dcid: "dc/o/4de3jbc7jnbr"
+
+Node: 1_10/E1/93ccd88e-1fd3-f21c-8fa5-b7139971415d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:MalePopulation
+value: 585.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=MalePopulationobservationDate=2019value=585.5observationPeriod=P1Y"
+dcid: "dc/o/kfcq6814rb27d"
+
+Node: 1_10/E0/93ccd88e-1fd3-f21c-8fa5-b7139971415d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:TotalPopulation
+value: 1171.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=TotalPopulationobservationDate=2019value=1171.7observationPeriod=P1Y"
+dcid: "dc/o/x19e7p08m4g22"
+
+Node: 1_10/E3/93ccd88e-1fd3-f21c-8fa5-b7139971415d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:UrbanPopulation
+value: 208.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=UrbanPopulationobservationDate=2019value=208.3observationPeriod=P1Y"
+dcid: "dc/o/f9896vxc6wbz9"
+
+Node: 1_10/E2/93ccd88e-1fd3-f21c-8fa5-b7139971415d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:FemalePopulation
+value: 586.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=FemalePopulationobservationDate=2019value=586.2observationPeriod=P1Y"
+dcid: "dc/o/lzbhzm5rwn6v"
+
+Node: 1_10/E4/93ccd88e-1fd3-f21c-8fa5-b7139971415d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q130391
+variableMeasured: dcid:RuralPopulation
+value: 963.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q130391variableMeasured=RuralPopulationobservationDate=2019value=963.4observationPeriod=P1Y"
+dcid: "dc/o/y7e95h1s7vmn5"
+
+Node: 1_10/E1/b67e90a5-80d2-0c50-421e-5bf7af76e712
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:MalePopulation
+value: 1236.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=MalePopulationobservationDate=2019value=1236.4observationPeriod=P1Y"
+dcid: "dc/o/xnesec3hqs5j6"
+
+Node: 1_10/E0/b67e90a5-80d2-0c50-421e-5bf7af76e712
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:TotalPopulation
+value: 2456.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=TotalPopulationobservationDate=2019value=2456.3observationPeriod=P1Y"
+dcid: "dc/o/mky2jnz72l181"
+
+Node: 1_10/E3/b67e90a5-80d2-0c50-421e-5bf7af76e712
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:UrbanPopulation
+value: 1961.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=UrbanPopulationobservationDate=2019value=1961.9observationPeriod=P1Y"
+dcid: "dc/o/yfx0gq6cqvgcd"
+
+Node: 1_10/E2/b67e90a5-80d2-0c50-421e-5bf7af76e712
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:FemalePopulation
+value: 1219.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=FemalePopulationobservationDate=2019value=1219.9observationPeriod=P1Y"
+dcid: "dc/o/hg0fpkn60px27"
+
+Node: 1_10/E4/b67e90a5-80d2-0c50-421e-5bf7af76e712
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36866
+variableMeasured: dcid:RuralPopulation
+value: 494.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36866variableMeasured=RuralPopulationobservationDate=2019value=494.4observationPeriod=P1Y"
+dcid: "dc/o/2efc0crplwwy1"
+
+Node: 1_10/E1/292afdb2-f986-0737-e8a4-42f96fe90f54
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:MalePopulation
+value: 1562.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=MalePopulationobservationDate=2019value=1562.2observationPeriod=P1Y"
+dcid: "dc/o/n2whp8467hr76"
+
+Node: 1_10/E0/292afdb2-f986-0737-e8a4-42f96fe90f54
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:TotalPopulation
+value: 3113.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=TotalPopulationobservationDate=2019value=3113.7observationPeriod=P1Y"
+dcid: "dc/o/j7yr7cxe7zky8"
+
+Node: 1_10/E3/292afdb2-f986-0737-e8a4-42f96fe90f54
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:UrbanPopulation
+value: 1371.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=UrbanPopulationobservationDate=2019value=1371.8observationPeriod=P1Y"
+dcid: "dc/o/wqn71qvsd10c7"
+
+Node: 1_10/E2/292afdb2-f986-0737-e8a4-42f96fe90f54
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:FemalePopulation
+value: 1551.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=FemalePopulationobservationDate=2019value=1551.5observationPeriod=P1Y"
+dcid: "dc/o/bfxcd61hr6q9c"
+
+Node: 1_10/E4/292afdb2-f986-0737-e8a4-42f96fe90f54
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33271
+variableMeasured: dcid:RuralPopulation
+value: 1741.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33271variableMeasured=RuralPopulationobservationDate=2019value=1741.9observationPeriod=P1Y"
+dcid: "dc/o/6tnzhx4zxz3e3"
+
+Node: 1_10/E1/802465b2-c4a0-1ff7-59d0-a570c64c30ef
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:MalePopulation
+value: 578.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=MalePopulationobservationDate=2019value=578.2observationPeriod=P1Y"
+dcid: "dc/o/y84sbdv8y7c4"
+
+Node: 1_10/E0/802465b2-c4a0-1ff7-59d0-a570c64c30ef
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:TotalPopulation
+value: 1152.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=TotalPopulationobservationDate=2019value=1152.2observationPeriod=P1Y"
+dcid: "dc/o/d3z498kc7r50h"
+
+Node: 1_10/E3/802465b2-c4a0-1ff7-59d0-a570c64c30ef
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:UrbanPopulation
+value: 675.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=UrbanPopulationobservationDate=2019value=675.6observationPeriod=P1Y"
+dcid: "dc/o/lq8e2q55k7rf8"
+
+Node: 1_10/E2/802465b2-c4a0-1ff7-59d0-a570c64c30ef
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:FemalePopulation
+value: 574.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=FemalePopulationobservationDate=2019value=574.0observationPeriod=P1Y"
+dcid: "dc/o/drxkfndkqb1r1"
+
+Node: 1_10/E4/802465b2-c4a0-1ff7-59d0-a570c64c30ef
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36874
+variableMeasured: dcid:RuralPopulation
+value: 476.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36874variableMeasured=RuralPopulationobservationDate=2019value=476.6observationPeriod=P1Y"
+dcid: "dc/o/qrel8cl3w2t31"
+
+Node: 1_10/E1/580f1ebe-9d15-ff37-bd5d-9ea5fbf55dec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:MalePopulation
+value: 4405.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=MalePopulationobservationDate=2019value=4405.2observationPeriod=P1Y"
+dcid: "dc/o/7mcplxsqcn6sh"
+
+Node: 1_10/E0/580f1ebe-9d15-ff37-bd5d-9ea5fbf55dec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:TotalPopulation
+value: 9038.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=TotalPopulationobservationDate=2019value=9038.6observationPeriod=P1Y"
+dcid: "dc/o/8h9vjbbdhg7n3"
+
+Node: 1_10/E3/580f1ebe-9d15-ff37-bd5d-9ea5fbf55dec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:UrbanPopulation
+value: 7161.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=UrbanPopulationobservationDate=2019value=7161.5observationPeriod=P1Y"
+dcid: "dc/o/nxjm4gbtzkrpg"
+
+Node: 1_10/E2/580f1ebe-9d15-ff37-bd5d-9ea5fbf55dec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:FemalePopulation
+value: 4633.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=FemalePopulationobservationDate=2019value=4633.4observationPeriod=P1Y"
+dcid: "dc/o/rdehgz1njvnl3"
+
+Node: 1_10/E4/580f1ebe-9d15-ff37-bd5d-9ea5fbf55dec
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q1854
+variableMeasured: dcid:RuralPopulation
+value: 1877.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q1854variableMeasured=RuralPopulationobservationDate=2019value=1877.1observationPeriod=P1Y"
+dcid: "dc/o/9ge09edn5m868"
+
+Node: 1_10/E1/3cf64a97-962d-af71-5a9c-64ac970d977a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:MalePopulation
+value: 845.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=MalePopulationobservationDate=2019value=845.5observationPeriod=P1Y"
+dcid: "dc/o/gn9k8stftq0t6"
+
+Node: 1_10/E0/3cf64a97-962d-af71-5a9c-64ac970d977a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:TotalPopulation
+value: 1695.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=TotalPopulationobservationDate=2019value=1695.1observationPeriod=P1Y"
+dcid: "dc/o/5fvcsqpl6nw48"
+
+Node: 1_10/E3/3cf64a97-962d-af71-5a9c-64ac970d977a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:UrbanPopulation
+value: 272.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=UrbanPopulationobservationDate=2019value=272.5observationPeriod=P1Y"
+dcid: "dc/o/y306lgvvszjy2"
+
+Node: 1_10/E2/3cf64a97-962d-af71-5a9c-64ac970d977a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:FemalePopulation
+value: 849.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=FemalePopulationobservationDate=2019value=849.6observationPeriod=P1Y"
+dcid: "dc/o/8mgyfnwdr8frc"
+
+Node: 1_10/E4/3cf64a97-962d-af71-5a9c-64ac970d977a
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q26573
+variableMeasured: dcid:RuralPopulation
+value: 1422.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q26573variableMeasured=RuralPopulationobservationDate=2019value=1422.6observationPeriod=P1Y"
+dcid: "dc/o/tem709zfgxc1b"
+
+Node: 1_10/E1/defabe9f-b01f-d0cf-8b3c-00e9b98ad345
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:MalePopulation
+value: 866.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=MalePopulationobservationDate=2019value=866.9observationPeriod=P1Y"
+dcid: "dc/o/tmk78q2cpc117"
+
+Node: 1_10/E0/defabe9f-b01f-d0cf-8b3c-00e9b98ad345
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:TotalPopulation
+value: 1766.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=TotalPopulationobservationDate=2019value=1766.3observationPeriod=P1Y"
+dcid: "dc/o/yqcbvkqckmy66"
+
+Node: 1_10/E3/defabe9f-b01f-d0cf-8b3c-00e9b98ad345
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:UrbanPopulation
+value: 247.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=UrbanPopulationobservationDate=2019value=247.3observationPeriod=P1Y"
+dcid: "dc/o/wf43gk76vtyb8"
+
+Node: 1_10/E2/defabe9f-b01f-d0cf-8b3c-00e9b98ad345
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:FemalePopulation
+value: 899.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=FemalePopulationobservationDate=2019value=899.4observationPeriod=P1Y"
+dcid: "dc/o/ybnyhe95h7lwd"
+
+Node: 1_10/E4/defabe9f-b01f-d0cf-8b3c-00e9b98ad345
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36666
+variableMeasured: dcid:RuralPopulation
+value: 1519.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36666variableMeasured=RuralPopulationobservationDate=2019value=1519.0observationPeriod=P1Y"
+dcid: "dc/o/pbm4q9njjvgh6"
+
+Node: 1_10/E1/fff79c1d-d209-17e7-63ee-e290e291e481
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:MalePopulation
+value: 630.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=MalePopulationobservationDate=2019value=630.7observationPeriod=P1Y"
+dcid: "dc/o/dvqg3txh7xy16"
+
+Node: 1_10/E0/fff79c1d-d209-17e7-63ee-e290e291e481
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:TotalPopulation
+value: 1289.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=TotalPopulationobservationDate=2019value=1289.1observationPeriod=P1Y"
+dcid: "dc/o/3rc95q8n2k92g"
+
+Node: 1_10/E3/fff79c1d-d209-17e7-63ee-e290e291e481
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:UrbanPopulation
+value: 126.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=UrbanPopulationobservationDate=2019value=126.4observationPeriod=P1Y"
+dcid: "dc/o/bh14z8tw5vx3h"
+
+Node: 1_10/E2/fff79c1d-d209-17e7-63ee-e290e291e481
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:FemalePopulation
+value: 658.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=FemalePopulationobservationDate=2019value=658.4observationPeriod=P1Y"
+dcid: "dc/o/m56n9h4ejmj75"
+
+Node: 1_10/E4/fff79c1d-d209-17e7-63ee-e290e291e481
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33366
+variableMeasured: dcid:RuralPopulation
+value: 1162.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33366variableMeasured=RuralPopulationobservationDate=2019value=1162.7observationPeriod=P1Y"
+dcid: "dc/o/txe4d6780mffb"
+
+Node: 1_10/E1/9c4e27fa-1efc-9b39-f0c7-5042b80dd6a1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:MalePopulation
+value: 496.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=MalePopulationobservationDate=2019value=496.9observationPeriod=P1Y"
+dcid: "dc/o/sg9r3s8e1y3m8"
+
+Node: 1_10/E0/9c4e27fa-1efc-9b39-f0c7-5042b80dd6a1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:TotalPopulation
+value: 1009.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=TotalPopulationobservationDate=2019value=1009.3observationPeriod=P1Y"
+dcid: "dc/o/ps8c4w5mfetyc"
+
+Node: 1_10/E3/9c4e27fa-1efc-9b39-f0c7-5042b80dd6a1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:UrbanPopulation
+value: 174.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=UrbanPopulationobservationDate=2019value=174.1observationPeriod=P1Y"
+dcid: "dc/o/w3q73rzfnqv4c"
+
+Node: 1_10/E2/9c4e27fa-1efc-9b39-f0c7-5042b80dd6a1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:FemalePopulation
+value: 512.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=FemalePopulationobservationDate=2019value=512.4observationPeriod=P1Y"
+dcid: "dc/o/25m659xxpk9hb"
+
+Node: 1_10/E4/9c4e27fa-1efc-9b39-f0c7-5042b80dd6a1
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36615
+variableMeasured: dcid:RuralPopulation
+value: 835.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36615variableMeasured=RuralPopulationobservationDate=2019value=835.2observationPeriod=P1Y"
+dcid: "dc/o/vghdp04p1czwb"
+
+Node: 1_10/E1/4543690a-99ad-b7ef-46c3-5ba8ed714d3d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:MalePopulation
+value: 503.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=MalePopulationobservationDate=2019value=503.8observationPeriod=P1Y"
+dcid: "dc/o/e0c3jry6cqgm3"
+
+Node: 1_10/E0/4543690a-99ad-b7ef-46c3-5ba8ed714d3d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:TotalPopulation
+value: 1022.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=TotalPopulationobservationDate=2019value=1022.6observationPeriod=P1Y"
+dcid: "dc/o/dx8r6jgxp4qr6"
+
+Node: 1_10/E3/4543690a-99ad-b7ef-46c3-5ba8ed714d3d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:UrbanPopulation
+value: 169.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=UrbanPopulationobservationDate=2019value=169.8observationPeriod=P1Y"
+dcid: "dc/o/kymjlt7t4e3wh"
+
+Node: 1_10/E2/4543690a-99ad-b7ef-46c3-5ba8ed714d3d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:FemalePopulation
+value: 518.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=FemalePopulationobservationDate=2019value=518.8observationPeriod=P1Y"
+dcid: "dc/o/16tc59ts0f0dh"
+
+Node: 1_10/E4/4543690a-99ad-b7ef-46c3-5ba8ed714d3d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q7333405
+variableMeasured: dcid:RuralPopulation
+value: 852.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q7333405variableMeasured=RuralPopulationobservationDate=2019value=852.8observationPeriod=P1Y"
+dcid: "dc/o/hln6b6vndrz81"
+
+Node: 1_10/E1/9d8f9275-e705-1cc2-6ae7-2cbe3ce50810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:MalePopulation
+value: 798.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=MalePopulationobservationDate=2019value=798.9observationPeriod=P1Y"
+dcid: "dc/o/076my4t22kqwd"
+
+Node: 1_10/E0/9d8f9275-e705-1cc2-6ae7-2cbe3ce50810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:TotalPopulation
+value: 1598.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=TotalPopulationobservationDate=2019value=1598.8observationPeriod=P1Y"
+dcid: "dc/o/16pwrc2hem677"
+
+Node: 1_10/E3/9d8f9275-e705-1cc2-6ae7-2cbe3ce50810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:UrbanPopulation
+value: 304.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=UrbanPopulationobservationDate=2019value=304.7observationPeriod=P1Y"
+dcid: "dc/o/egx5m9y3rffe4"
+
+Node: 1_10/E2/9d8f9275-e705-1cc2-6ae7-2cbe3ce50810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:FemalePopulation
+value: 799.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=FemalePopulationobservationDate=2019value=799.9observationPeriod=P1Y"
+dcid: "dc/o/1w2cbtl2690jd"
+
+Node: 1_10/E4/9d8f9275-e705-1cc2-6ae7-2cbe3ce50810
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36676
+variableMeasured: dcid:RuralPopulation
+value: 1294.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36676variableMeasured=RuralPopulationobservationDate=2019value=1294.1observationPeriod=P1Y"
+dcid: "dc/o/ll1dy6vy1x1d"
+
+Node: 1_10/E1/848da03a-e599-c5e9-521e-0d48c9c8f3bf
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:MalePopulation
+value: 947.1
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=MalePopulationobservationDate=2019value=947.1observationPeriod=P1Y"
+dcid: "dc/o/kpj633ns1ytr4"
+
+Node: 1_10/E0/848da03a-e599-c5e9-521e-0d48c9c8f3bf
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:TotalPopulation
+value: 1907.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=TotalPopulationobservationDate=2019value=1907.4observationPeriod=P1Y"
+dcid: "dc/o/l2lds661fb239"
+
+Node: 1_10/E3/848da03a-e599-c5e9-521e-0d48c9c8f3bf
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:UrbanPopulation
+value: 602.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=UrbanPopulationobservationDate=2019value=602.6observationPeriod=P1Y"
+dcid: "dc/o/0r5r3s8t9bkg6"
+
+Node: 1_10/E2/848da03a-e599-c5e9-521e-0d48c9c8f3bf
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:FemalePopulation
+value: 960.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=FemalePopulationobservationDate=2019value=960.3observationPeriod=P1Y"
+dcid: "dc/o/y1skdxrj5h33"
+
+Node: 1_10/E4/848da03a-e599-c5e9-521e-0d48c9c8f3bf
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36592
+variableMeasured: dcid:RuralPopulation
+value: 1304.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36592variableMeasured=RuralPopulationobservationDate=2019value=1304.8observationPeriod=P1Y"
+dcid: "dc/o/4tmfvghev1d13"
+
+Node: 1_10/E1/afb9a619-edfe-2753-b805-b646d393b5b3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:MalePopulation
+value: 873.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=MalePopulationobservationDate=2019value=873.7observationPeriod=P1Y"
+dcid: "dc/o/fjpcr98zrkx5f"
+
+Node: 1_10/E0/afb9a619-edfe-2753-b805-b646d393b5b3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:TotalPopulation
+value: 1723.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=TotalPopulationobservationDate=2019value=1723.7observationPeriod=P1Y"
+dcid: "dc/o/5mfnrzgelhs93"
+
+Node: 1_10/E3/afb9a619-edfe-2753-b805-b646d393b5b3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:UrbanPopulation
+value: 488.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=UrbanPopulationobservationDate=2019value=488.8observationPeriod=P1Y"
+dcid: "dc/o/v1f9e6mn8y337"
+
+Node: 1_10/E2/afb9a619-edfe-2753-b805-b646d393b5b3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:FemalePopulation
+value: 850.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=FemalePopulationobservationDate=2019value=850.0observationPeriod=P1Y"
+dcid: "dc/o/xlvc6mx43z3w1"
+
+Node: 1_10/E4/afb9a619-edfe-2753-b805-b646d393b5b3
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36576
+variableMeasured: dcid:RuralPopulation
+value: 1234.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36576variableMeasured=RuralPopulationobservationDate=2019value=1234.9observationPeriod=P1Y"
+dcid: "dc/o/9qmbk1mqgc5p7"
+
+Node: 1_10/E1/a3089386-ffb7-7820-ba62-a8c2c8b8aabe
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:MalePopulation
+value: 613.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=MalePopulationobservationDate=2019value=613.0observationPeriod=P1Y"
+dcid: "dc/o/y1dk3f63bw312"
+
+Node: 1_10/E0/a3089386-ffb7-7820-ba62-a8c2c8b8aabe
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:TotalPopulation
+value: 1236.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=TotalPopulationobservationDate=2019value=1236.0observationPeriod=P1Y"
+dcid: "dc/o/208br0bdvzch"
+
+Node: 1_10/E3/a3089386-ffb7-7820-ba62-a8c2c8b8aabe
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:UrbanPopulation
+value: 861.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=UrbanPopulationobservationDate=2019value=861.3observationPeriod=P1Y"
+dcid: "dc/o/x0b99p84q6v0f"
+
+Node: 1_10/E2/a3089386-ffb7-7820-ba62-a8c2c8b8aabe
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:FemalePopulation
+value: 623.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=FemalePopulationobservationDate=2019value=623.0observationPeriod=P1Y"
+dcid: "dc/o/025hewx1zvfc"
+
+Node: 1_10/E4/a3089386-ffb7-7820-ba62-a8c2c8b8aabe
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q216075
+variableMeasured: dcid:RuralPopulation
+value: 374.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q216075variableMeasured=RuralPopulationobservationDate=2019value=374.7observationPeriod=P1Y"
+dcid: "dc/o/6qkyvk7g331l5"
+
+Node: 1_10/E1/ee40c6e6-bf98-8d8d-7108-4e6485a25dba
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:MalePopulation
+value: 365.8
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=MalePopulationobservationDate=2019value=365.8observationPeriod=P1Y"
+dcid: "dc/o/wnl26jw6y8jzg"
+
+Node: 1_10/E0/ee40c6e6-bf98-8d8d-7108-4e6485a25dba
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:TotalPopulation
+value: 732.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=TotalPopulationobservationDate=2019value=732.2observationPeriod=P1Y"
+dcid: "dc/o/fk3lmg9m46vl4"
+
+Node: 1_10/E3/ee40c6e6-bf98-8d8d-7108-4e6485a25dba
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:UrbanPopulation
+value: 197.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=UrbanPopulationobservationDate=2019value=197.7observationPeriod=P1Y"
+dcid: "dc/o/z856k9ncs0fm9"
+
+Node: 1_10/E2/ee40c6e6-bf98-8d8d-7108-4e6485a25dba
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:FemalePopulation
+value: 366.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=FemalePopulationobservationDate=2019value=366.4observationPeriod=P1Y"
+dcid: "dc/o/57xwb6hlv8ksf"
+
+Node: 1_10/E4/ee40c6e6-bf98-8d8d-7108-4e6485a25dba
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36320
+variableMeasured: dcid:RuralPopulation
+value: 534.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36320variableMeasured=RuralPopulationobservationDate=2019value=534.5observationPeriod=P1Y"
+dcid: "dc/o/2pfydft4lzhl9"
+
+Node: 1_10/E1/9aec4396-18ca-2691-89da-f13a6986b1cb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:MalePopulation
+value: 597.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=MalePopulationobservationDate=2019value=597.9observationPeriod=P1Y"
+dcid: "dc/o/m1k492r3rvnm8"
+
+Node: 1_10/E0/9aec4396-18ca-2691-89da-f13a6986b1cb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:TotalPopulation
+value: 1199.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=TotalPopulationobservationDate=2019value=1199.5observationPeriod=P1Y"
+dcid: "dc/o/d9tmz4zrxecgf"
+
+Node: 1_10/E3/9aec4396-18ca-2691-89da-f13a6986b1cb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:UrbanPopulation
+value: 388.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=UrbanPopulationobservationDate=2019value=388.5observationPeriod=P1Y"
+dcid: "dc/o/swdhgp9w9c825"
+
+Node: 1_10/E2/9aec4396-18ca-2691-89da-f13a6986b1cb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:FemalePopulation
+value: 601.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=FemalePopulationobservationDate=2019value=601.6observationPeriod=P1Y"
+dcid: "dc/o/33fxcmkdblr06"
+
+Node: 1_10/E4/9aec4396-18ca-2691-89da-f13a6986b1cb
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33272
+variableMeasured: dcid:RuralPopulation
+value: 811.0
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33272variableMeasured=RuralPopulationobservationDate=2019value=811.0observationPeriod=P1Y"
+dcid: "dc/o/tslvm83ww8rl7"
+
+Node: 1_10/E1/9ed15c6e-70b4-121c-6eb0-2fe3c9feb2b9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:MalePopulation
+value: 454.5
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=MalePopulationobservationDate=2019value=454.5observationPeriod=P1Y"
+dcid: "dc/o/92hbts3mlf25g"
+
+Node: 1_10/E0/9ed15c6e-70b4-121c-6eb0-2fe3c9feb2b9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:TotalPopulation
+value: 908.2
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=TotalPopulationobservationDate=2019value=908.2observationPeriod=P1Y"
+dcid: "dc/o/00k66mnrmj9b2"
+
+Node: 1_10/E3/9ed15c6e-70b4-121c-6eb0-2fe3c9feb2b9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:UrbanPopulation
+value: 252.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=UrbanPopulationobservationDate=2019value=252.3observationPeriod=P1Y"
+dcid: "dc/o/qfg7v9y6l31sf"
+
+Node: 1_10/E2/9ed15c6e-70b4-121c-6eb0-2fe3c9feb2b9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:FemalePopulation
+value: 453.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=FemalePopulationobservationDate=2019value=453.7observationPeriod=P1Y"
+dcid: "dc/o/tbnq5wjyp3ewh"
+
+Node: 1_10/E4/9ed15c6e-70b4-121c-6eb0-2fe3c9feb2b9
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q36658
+variableMeasured: dcid:RuralPopulation
+value: 655.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q36658variableMeasured=RuralPopulationobservationDate=2019value=655.9observationPeriod=P1Y"
+dcid: "dc/o/y4762lt9g21k6"
+
+Node: 1_10/E1/13d1acde-e51f-da38-5261-a9f97009fd9d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:MalePopulation
+value: 604.9
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=MalePopulationobservationDate=2019value=604.9observationPeriod=P1Y"
+dcid: "dc/o/wkwvrx0p12lk3"
+
+Node: 1_10/E0/13d1acde-e51f-da38-5261-a9f97009fd9d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:TotalPopulation
+value: 1194.3
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=TotalPopulationobservationDate=2019value=1194.3observationPeriod=P1Y"
+dcid: "dc/o/m7xhqk765ybdf"
+
+Node: 1_10/E3/13d1acde-e51f-da38-5261-a9f97009fd9d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:UrbanPopulation
+value: 271.7
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=UrbanPopulationobservationDate=2019value=271.7observationPeriod=P1Y"
+dcid: "dc/o/z0zems3p80np8"
+
+Node: 1_10/E2/13d1acde-e51f-da38-5261-a9f97009fd9d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:FemalePopulation
+value: 589.4
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=FemalePopulationobservationDate=2019value=589.4observationPeriod=P1Y"
+dcid: "dc/o/x5r7fnkxf71yf"
+
+Node: 1_10/E4/13d1acde-e51f-da38-5261-a9f97009fd9d
+observationDate: 2019
+observationAbout: dcid:wikidataId/Q33354
+variableMeasured: dcid:RuralPopulation
+value: 922.6
+typeOf: dcid:StatVarObservation
+observationPeriod: "P1Y"
+keyString: "observationAbout=wikidataId/Q33354variableMeasured=RuralPopulationobservationDate=2019value=922.6observationPeriod=P1Y"
+dcid: "dc/o/x5r3xygbc19l"
+
